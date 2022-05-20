@@ -29,7 +29,7 @@ CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 广东卫视,http://111.40.196.9/PLTV/88888888/224/3221225533/index.m3u8
 四川卫视,http://117.148.179.146:80/PLTV/88888888/224/3221231885/1.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-黑龙江卫视,http://39.134.24.24/PLTV/88888888/224/3221225690/index.m3u8
+黑龙江卫视,http://39.137.67.157:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?IASHttpSessionId=OTT
 广西卫视,http://39.135.32.6:6610/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 河南卫视,http://39.136.48.58:8089/PLTV/88888888/224/3221226415/1.m3u8
@@ -38,7 +38,7 @@ CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
 贵州卫视,http://39.137.67.157:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226405/1.m3u8?IASHttpSessionId=OTT
 天津卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225739/index.m3u8
-厦门卫视,http://39.134.19.27/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226219/1.m3u8
+厦门卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 湖北卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225740/index.m3u8
 海南卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568
 海峡卫视,http://39.135.55.7:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=OTT
