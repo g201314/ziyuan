@@ -16,7 +16,7 @@ CCTV-14少儿,http://39.135.133.158:80/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 CCTV-15音乐,http://39.134.65.82:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16奥林匹克,http://39.137.67.157:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8?IASHttpSessionId=OTT
 CCTV-17农业,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
-CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+CCTV-5+,http://120.221.5.102:8089/PLTV/88888888/224/3221225781/index.m3u8
 五星体育,http://111.40.196.25:80/PLTV/88888888/224/3221225503/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
