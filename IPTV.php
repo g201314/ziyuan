@@ -93,6 +93,7 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 北京科教,http://71pull.btvcloud.com/brtv2021channel/2021kjchannellive3.m3u8#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8#http://221.179.136.142:443/PLTV/88888888/224/3221226559/1.m3u8
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京电影,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京科教,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8#http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/xwzhhd/2300000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8#http://117.156.28.119/PLTV/88888888/224/3221225683/index.m3u8
