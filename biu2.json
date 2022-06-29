@@ -1,4 +1,3 @@
-
 {"Home": [
 {"key":"APP","title":"APP调试","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"网页","title":"网页调试","pic":"https://epg.112114.xyz/bingimg"},
@@ -7,8 +6,7 @@
 {"key":"历史","title":"历史记录","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"收藏","title":"我的收藏","pic":"https://epg.112114.xyz/bingimg"},
 {"key":"推送","title":"远程推送","pic":"https://epg.112114.xyz/bingimg"},
-{"key":"待添加","title":"待添加","pic":"https://epg.112114.xyz/bingimg"}
-],
+{"key":"待添加","title":"待添加","pic":"https://epg.112114.xyz/bingimg"}],
 "zhuyejiekou": [
             {"name":"六神秒播","url":"http://mkk.gotka.top/api.php/v1.vod"},
             {"name": "独播社","url": "http://35ys.cc/api.php/v1.vod"},
