@@ -68,46 +68,6 @@
 			"ext": "http://123.250idc.com/mogai_api.php/v1.vod"
 		},
 		{
-			"key": "csp_biubiu_特狗影视",
-			"name": "特狗(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"
-		},
-		{
-			"key": "csp_biubiu_瓜皮TV",
-			"name": "瓜皮(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"
-		},
-		{
-			"key": "csp_biubiu_九亿影院",
-			"name": "九亿影院(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiuyi.json"
-		},
-		{
-			"key": "csp_biubiu_饭团影院",
-			"name": "饭团影院(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"
-		},
-		{
 			"key": "csp_XBiubiubiubiu_555",
 			"name": "555(B)",
 			"type": 3,
@@ -115,8 +75,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555.json"
-		},
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555.json"},
 		{
 			"key": "csp_XBiubiubiubiu_ysgc",
 			"name": "影视工厂(B)",
@@ -125,8 +84,43 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/ysgc.json"
-		},
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/ysgc.json"},
+		{
+			"key": "csp_biubiu_特狗影视",
+			"name": "特狗(B)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"},
+		{
+			"key": "csp_biubiu_瓜皮TV",
+			"name": "瓜皮(B)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
+		{
+			"key": "csp_biubiu_九亿影院",
+			"name": "九亿影院(B)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiuyi.json"},
+		{
+			"key": "csp_biubiu_饭团影院",
+			"name": "饭团影院(B)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"},
                 {
 			"key": "csp_appys_365看",
 			"name": "365看",
