@@ -1,6 +1,6 @@
 {
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://qdpdwjx.coding.net/p/k/d/ziyuan/git/raw/master/custom_spider1.jar",
+"spider":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider1.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9xZHBkd2p4LmNvZGluZy5uZXQvcC9rL2Qveml5dWFuL2dpdC9yYXcvbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
