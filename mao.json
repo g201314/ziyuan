@@ -67,6 +67,7 @@
 			"filterable": 1,
 			"ext": "http://123.250idc.com/mogai_api.php/v1.vod"
 		},
+		{"key":"csp_xpath_网络搜集库qiumi","name":"球迷🏀","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
 		{
 			"key": "csp_XBiubiu_555",
 			"name": "555(B)",
