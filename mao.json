@@ -246,6 +246,7 @@
 			"filterable": 1,
 			"ext": "http://app.269w.com/api.php/v1.vod"
 		},
+		{"key": "量子资源","name": "量子资源","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/","playUrl": "https://lziplayer.com/?url=","categories": [] },
 		{
 			"key": "诺讯资源",
 			"name": "诺讯资源",
