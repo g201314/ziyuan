@@ -85,6 +85,15 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/ysgc.json"},
+			{
+			"key": "csp_XBiubiubiubiu_xmaomi",
+			"name": "小猫咪(B)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xiaomaomi.json"},
 		{
 			"key": "csp_biubiu_特狗影视",
 			"name": "特狗(B)",
