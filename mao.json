@@ -558,7 +558,7 @@
 				"name": "江湖云",
 				"type": 1,
 				"url": "https://jx.ncxmid.cn/sb/?url=",
-				"url": {
+				"ext": {
 					"flag": [
 						"qq",
 						"腾讯",
@@ -578,7 +578,7 @@
 				"name": "喵派对资源",
 				"type": 1,
 				"url": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
-				"url": {
+				"ext": {
 					"flag": [
 						"ltnb",
 						"renrenmi",
@@ -607,7 +607,7 @@
 				"name": "搬运工资源站",
 				"type": 1,
 				"url": "https://jx.kupu.cc/json/jxbanyung.php/?url=",
-				"url": {
+				"ext": {
 					"flag": [
 						"ltnb",
 						"qq",
