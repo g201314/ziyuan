@@ -440,7 +440,7 @@
 			{
 				"name": "大威电影",
 				"type": 1,
-				"url": "https://cs.024zs.com:4433/api/?key=y3qnopZ0kW5zjGmHuH&url=",
+				"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 				"ext": {
 					"flag": [
 						"qq",
