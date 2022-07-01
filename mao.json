@@ -56,16 +56,6 @@
 			"filterable": 1
 		},
 		{
-			"key": "csp_appys_VIP影院",
-			"name": "VIP影院",
-			"type": 3,
-			"api": "csp_AppYs",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://360yy.cn/api.php/app/"
-		},
-		{
 			"key": "csp_appysv2_极速影视",
 			"name": "极速影视(M)",
 			"type": 3,
@@ -148,19 +138,9 @@
 			"ext": "https://www.kan365.xyz/api.php/app/"
 		},
 		{
-			"key": "csp_appysv2_饭后电影",
-			"name": "饭后电影(M)",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://yinliub.cn/lvdou_api.php/v1.vod"
-		},
-		{
 			"key": "csp_appysv2_独播社",
 			"name": "独播社",
-			"type": 3,
+			"type": 1,
 			"api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
