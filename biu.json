@@ -78,17 +78,7 @@
 	],
 	"caijizhan": [{
 		"name": "七七影视",
-		"url": "http://api.kunyu77.com/api.php"
-	}, {
-		"name": "酷猫影视",
-		"url": "https://www.pgcms10.com/api.php"
-	}, {
-		"name": "松鼠资源",
-		"url": "https://m3u8.songshuzy.com/api.php"
-	}, {
-		"name": "量子资源",
-		"url": "http://cj.lziapi.com/api.php"
-	}],
+		"url": "http://api.kunyu77.com/api.php"	}, {"name":"小猫咪","url":"http://zy.xiaomaomi.cc/api.php"},{"name": "酷猫影视",	"url": "https://www.pgcms10.com/api.php"}, {"name": "松鼠资源","url": "https://m3u8.songshuzy.com/api.php"}, {"name": "量子资源","url": "http://cj.lziapi.com/api.php"}],
 	"lunbo": [{
 		"name": "D鱼",
 		"fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==",
