@@ -63,8 +63,8 @@
 			"filterable": 1
 		},
 		{"key":"csp_xpath_网络搜集库112","name":"工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/gryy.json"},
-		{"key":"csp_biubiu_蓝光影院","name":"蓝光(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lgyy.json"},
-		{"key":"csp_XBiubiubiubiu_lezhu","name":"乐猪(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lzys.json"},
+		{"key":"csp_biubiu_蓝光影院","name":"蓝光(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lgyy.json"},
+		{"key":"csp_XBiubiubiubiu_lezhu","name":"乐猪(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lzys.json"},
 
 		{
 			"key": "csp_appysv2_极速影视",
