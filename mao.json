@@ -145,8 +145,7 @@
         "quickSearch":1,
         "filterable":1,
          "ext":"http://35ys.cc/api.php/v1.vod"},
-		 {"key": "teyond__zh__独播影视","name": "独播影视〔Z〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://35ys.cc/api.php/v1.vod"},
-		{
+		 {
 			"key": "极速蓝光",
 			"name": "极速蓝光",
 			"type": 1,
