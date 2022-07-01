@@ -34,7 +34,7 @@
 			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/czzy.json"	},
 		{"key":"酷猫影视",
 		"name":"酷猫影视",
-		"type":1,
+		"type":3,
 		"api":"https://www.pgcms10.com/api.php/provide/vod/",
 		"searchable":1,
 		"quickSearch":1},
@@ -170,7 +170,7 @@
 		{
 			"key": "极速蓝光",
 			"name": "极速蓝光",
-			"type": 1,
+			"type": 3,
 			"api": "http://hs.zhuijuba.vip/api.php/provide/vod/",
 			"playUrl": "",
 			"searchable": 1,
