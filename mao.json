@@ -114,15 +114,6 @@
 			"filterable": 0,
 			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
 		{
-			"key": "csp_biubiu_九亿影院",
-			"name": "九亿影院(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiuyi.json"},
-		{
 			"key": "csp_biubiu_饭团影院",
 			"name": "饭团影院(B)",
 			"type": 3,
@@ -158,15 +149,6 @@
         "filterable":1,
          "ext":"http://35ys.cc/api.php/v1.vod"},
 		 {
-			"key": "追剧吧",
-			"name": "追剧吧",
-			"type": 1,
-			"api": "http://hs.zhuijuba.vip/api.php/provide/vod/",
-			"playUrl": "",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
 			"key": "csp_appysv2_粉象视界",
 			"name": "粉象视界(M)",
 			"type": 3,
@@ -197,16 +179,6 @@
 			"ext": "http://cx99999.cn/lvdou_api.php/v1.vod"
 		},
 		{
-			"key": "csp_appysv2_1080kk",
-			"name": "1080k(M)",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://123.250idc.com/mogai_api.php/v1.vod"
-		},
-		{
 			"key": "csp_appysv2_米来影视",
 			"name": "米来影视(M2)",
 			"type": 3,
@@ -226,6 +198,7 @@
 			"filterable": 1,
 			"ext": "http://app.269w.com/api.php/v1.vod"
 		},
+		{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 			"key": "诺讯资源",
 			"name": "诺讯资源",
