@@ -17,25 +17,9 @@
 	{"key": "csp_appysv2_极速影视","name": "极速影视(M)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.250idc.com/mogai_api.php/v1.vod"},
       {"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555.json"},
       {"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/ysgc.json"},
-		{
-			"key": "csp_biubiu_特狗影视",
-			"name": "特狗影视(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"	},
+	{"key": "csp_biubiu_特狗影视","name": "特狗影视(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"	},
 		{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
-		{"key": "csp_biubiu_饭团影院",
-			"name": "饭团影院(B)",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"
-		},
+		{"key": "csp_biubiu_饭团影院","name": "饭团影院(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"},
 		{
 			"key": "csp_appysv2_天空",
 			"name": "天空影视",
@@ -132,9 +116,7 @@
 			"type": 1,
 			"api": "https://qkmp4.cn/api.php/provide/vod/",
 			"playUrl": "",
-			"categories": ["国产", "港台", "日韩", "欧美", "惊悚", "动作", "喜剧", "爱情", "科幻", "恐怖", "剧情", "战争", "纪录", "犯罪", "冒
-
-险", "悬疑", "动漫", "综艺", "奇幻"]
+			"categories": ["国产", "港台", "日韩", "欧美", "惊悚", "动作", "喜剧", "爱情", "科幻", "恐怖", "剧情", "战争", "纪录", "犯罪", "冒险", "悬疑", "动漫", "综艺", "奇幻"]
 		},
 		{
 			"key": "push_agent",
@@ -154,21 +136,10 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xZHBkd2p4MDAxL3ppeXVhbi8tL3Jhdy9tYXN0ZXIvbWFvLnBocA=="]
 		}]
 	}],
-	"parses": [{
-			"name": "解析聚合",
-			"type": 3,
-			"url": "Demo"
-		},
-		{
-			"name": "Json并发",
-			"type": 2,
-			"url": "Parallel"
-		},
-		{
-			"name": "Json轮询",
-			"type": 2,
-			"url": "Sequence"
-		},
+	"parses": [
+		{"name": "解析聚合","type": 3,"url": "Demo"},
+		{"name": "Json并发","type": 2,"url": "Parallel"},
+		{"name": "Json轮询","type": 2,"url": "Sequence"},
 		{
 			"name": "爱影视",
 			"type": 1,
