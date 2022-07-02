@@ -279,7 +279,7 @@
 					]
 				}
 			},
-			{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","pptv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+			{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","pptv","sohu","youku","mgtv","bilibili","wasu","renrenmi","xigua","1905"]}},
 			{
 				"name": "hfyrw",
 				"type": 1,
