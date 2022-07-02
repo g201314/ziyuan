@@ -79,7 +79,7 @@
 		},
 		{
 			"key": "csp_XBiubiu_555",
-			"name": "555(B)",
+			"name": "555影院(B)",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -97,7 +97,7 @@
 			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/ysgc.json"},
 		{
 			"key": "csp_biubiu_特狗影视",
-			"name": "特狗(B)",
+			"name": "特狗影视(B)",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
@@ -106,7 +106,7 @@
 			"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"},
 		{
 			"key": "csp_biubiu_瓜皮TV",
-			"name": "瓜皮(B)",
+			"name": "瓜皮TV(B)",
 			"type": 3,
 			"api": "csp_XBiubiu",
 			"searchable": 1,
