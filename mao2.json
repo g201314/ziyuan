@@ -30,7 +30,7 @@
 		{"key": "csp_biubiu_饭团影院",
 			"name": "饭团影院(B)",
 			"type": 3,
-			"api": "csp_Biubiu",
+			"api": "csp_XBiubiu",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
