@@ -29,6 +29,7 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/czzy.json"	},
+		{"key":"csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_xml___小猫咪",
 			"name":"小 猫 咪" ,
 			"type":1,
