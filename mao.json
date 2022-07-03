@@ -6,6 +6,7 @@
         {"key":"csp_SP360","name":"360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 	{"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_biubiu_厂长资源","name":"厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/czzy.json"},
+		{"key":"csp_biubiu_zhibo8","name":"zhibo8(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/zhibo8.json"},
 	{"key":"csp_xml___小猫咪","name":"小 猫 咪" ,"type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 	{"key": "csp_xpath_网络搜集库qiumi","name": "球迷直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/qiumi.json"},
 	{"key": "酷猫影视","name": "酷猫影视","type": 1,"api": "https://www.pgcms10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
