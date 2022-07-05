@@ -10,7 +10,7 @@
 	},
 
 	// 首页推荐视频的节点
-	"homeVodNode": "//ul[class="item play d-touch active " data-lid="3741883,1,3741883" data-stype="zqlq"]",
+	"homeVodNode": "//ul[@data-stype='zqlq']",
 	// 首页推荐视频的名称
 	//"homeVodName": "/li[@class='lab_events']/span/text()",
 	"homeVodName": "concat(/li[@class='lab_time']/text(),'-',/li[@class='lab_events']/span/text())",
