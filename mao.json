@@ -62,7 +62,7 @@
 			"filterable": 1,
 			"ext": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"
 		},
-		{"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+		{"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hnfdyj.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 			"key": "csp_appysv2_悟空影院",
 			"name": "悟空影院(M)",
