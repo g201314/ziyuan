@@ -121,7 +121,6 @@
 			"playUrl": "",
 			"categories": ["国产", "港台", "日韩", "欧美", "惊悚", "动作", "喜剧", "爱情", "科幻", "恐怖", "剧情", "战争", "纪录", "犯罪", "冒险", "悬疑", "动漫", "综艺", "奇幻"]
 		},
-		{"key":"csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "push_agent",
 			"name": "推送",
