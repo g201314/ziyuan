@@ -54,7 +54,7 @@ CCTV-5+,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 即墨新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001080/index.m3u8?IASHttpSessionId=OTT
 莱西新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001067/index.m3u8?IASHttpSessionId=OTT
 胶州新闻,http://120.221.40.69:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001074/index.m3u8?IASHttpSessionId=OTT
-平度新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001054/index.m3u8
+平度新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00001054/index.m3u8
 上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
