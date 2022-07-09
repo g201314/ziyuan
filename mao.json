@@ -185,17 +185,6 @@
 		{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","renrenmi","wasu","xigua","pptv","1905"]}},
 		{
-			"name": "293",
-			"type": 1,
-			"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
-			"ext": {
-				"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu","xigua", "pptv", "1905"],
-				"header": {
-					"User-Agent": "Dart/2.14 (dart:io)"
-				}
-			}
-		},
-		{
 			"name": "RongXingVR",
 			"type": 1,
 			"url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
