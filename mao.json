@@ -182,6 +182,24 @@
 				]
 			}
 		},
+		{
+			"name": "思乐影视1",
+			"type": 1,
+			"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&mgtv=app&url=",
+			"ext": {
+				"flag": [
+					"mgtv",
+					"芒果",
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷"
+				]
+			}
+		},
 		{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","renrenmi","wasu","xigua","pptv","1905"]}},
 		{
