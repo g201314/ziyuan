@@ -165,6 +165,9 @@
 				]
 			}
 		},
+		{"name":"云you解析","type":1,"url":"https://ax.jx.cn/api.php?url="},
+        {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+        {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 		{
 			"name": "hfyrw",
 			"type": 1,
