@@ -25,6 +25,7 @@
 	{"key":"csp_biubiu_特狗影视","name": "特狗影视(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"	},
 	{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
 	{"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"小南TV","name":"小南TV","type":1,"api":"http://n293.ngys.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 			"key": "csp_appysv2_天空",
 			"name": "天空影视",
