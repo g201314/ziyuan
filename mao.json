@@ -147,6 +147,11 @@
 		{"name": "Json并发","type": 2,"url": "Parallel"},
 		{"name": "Json轮询","type": 2,"url": "Sequence"},
 		{
+			"name": "293",
+			"type": 1,
+			"url": "https://play.fuqizhishi.com/yunxing/API.php?appkey=yunxing20220710&url=",
+			"ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu","xigua", "pptv", "1905"]}},
+		{
 			"name": "爱影视",
 			"type": 1,
 			"url": "https://json.nxflv.com/?uid=701203&key=bltuyCEFKLTX013679&url=",
@@ -167,7 +172,6 @@
 		},
 		{"name":"云you解析","type":1,"url":"https://ax.jx.cn/api.php?url="},
         {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-        {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 		{
 			"name": "hfyrw",
 			"type": 1,
@@ -231,12 +235,6 @@
 				]
 			}
 		},
-		{
-			"name": "293",
-			"type": 1,
-			"url": "https://play.fuqizhishi.com/yunxing/API.php?appkey=yunxing20220710&url=",
-			"ext": {
-				"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu","xigua", "pptv", "1905"]}},
 		{
 			"name": "大熊影视",
 			"type": 1,
