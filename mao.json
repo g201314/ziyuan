@@ -14,6 +14,7 @@
 	{"key":"csp_biubiu_蓝光影院","name":"蓝光影院(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lgyy.json"},
 	{"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dmxq.json"},
 	{"key":"csp_biubiu_饭团影院","name": "饭团影院(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"},
+	{"key":"小南TV","name":"小南TV","type":1,"api":"http://n293.ngys.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	{"key":"csp_xml___小猫咪","name":"小 猫 咪" ,"type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 	{"key":"酷猫影视","name": "酷猫影视","type": 1,"api": "https://www.pgcms10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 	{"key":"csp_appysv2_MX影视","name": "MX影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
@@ -25,7 +26,6 @@
 	{"key":"csp_biubiu_特狗影视","name": "特狗影视(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"	},
 	{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
 	{"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-	{"key":"小南TV","name":"小南TV","type":1,"api":"http://n293.ngys.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 			"key": "csp_appysv2_天空",
 			"name": "天空影视",
