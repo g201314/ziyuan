@@ -14,7 +14,7 @@
 	{"key":"csp_biubiu_蓝光影院","name":"蓝光影院(B)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lgyy.json"},
 	{"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dmxq.json"},
 	{"key":"csp_biubiu_饭团影院","name": "饭团影院(B)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"},
-	{"key":"csp_appysv2_9e国语","name":"9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
+	{"key":"csp_appysv2_9e国语","name":"9E国语","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 	{"key":"小南TV","name":"小南TV","type":1,"api":"http://n293.ngys.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	{"key":"csp_xml___小猫咪","name":"小 猫 咪" ,"type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 	{"key":"酷猫影视","name": "酷猫影视","type": 1,"api": "https://www.pgcms10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
