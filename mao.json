@@ -152,16 +152,12 @@
 		{"name": "解析聚合","type": 3,"url": "Demo"},
 		{"name": "Json并发","type": 2,"url": "Parallel"},
 		{"name": "Json轮询","type": 2,"url": "Sequence"},
-		{
-			"name": "293",
-			"type": 1,
-			"url": "https://play.fuqizhishi.com/yunxing/API.php?appkey=yunxing20220710&url=",
-			"ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu","xigua", "pptv", "1905"]}},
-			{"name":"伪293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-			{"name":"线路m9","type":1,"url":"https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="},
+		{"name":"秒解","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+		{"name":"伪293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+		{"name":"线路m9","type":1,"url":"https://good-vip.mmiyue.com/zhenbuka2/api/svip/HaShrcJUHwtH7TDdgUzHaWvJ1lWUZWiK.php?url="},
 {"name":"线路NX","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
-		{
-			"name": "爱影视",
+		{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+		{	"name": "爱影视",
 			"type": 1,
 			"url": "https://json.nxflv.com/?uid=701203&key=bltuyCEFKLTX013679&url=",
 			"ext": {
@@ -179,25 +175,7 @@
 				]
 			}
 		},
-		{
-			"name": "hfyrw",
-			"type": 1,
-			"url": "http://api.kunyu77.com/api.php/provide/parserUrl?url=",
-			"ext": {
-				"flag": [
-					"ltnb",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"mgtv",
-					"芒果",
-					"letv",
-					"乐视"
-				]
-			}
-		},
+		{"name":"云you解析","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 		{
 			"name": "思乐影视",
 			"type": 1,
@@ -216,8 +194,6 @@
 				]
 			}
 		},
-		{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-		"ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","renrenmi","wasu","xigua","pptv","1905"]}},
 		{
 			"name": "RongXingVR",
 			"type": 1,
