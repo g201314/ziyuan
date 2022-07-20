@@ -2,6 +2,7 @@
         "spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider.jar",
 	"sites": [
 	{"key": "csp_Kmys","name": "默认主页","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
+	{"key":"csp_Kunyu77","name":"七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/qiumi.json"},
 	{"key":"csp_xpath_88看球","name": "88看球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/88kanqiu.json"},
