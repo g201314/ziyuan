@@ -23,7 +23,7 @@
 	{"key":"csp_Bttoo","name":"两个BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"小南TV","name":"小南TV","type":1,"api":"http://n293.ngys.xyz/mv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 	{"key":"csp_biubiu_小熊影视","name":"小熊影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xiaoxiong.json"},
-	{"key":"293影院","name":"293影院","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+	{"key":"csp_sp293","name":"293影院","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_ZJMiao","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/naifeiorg.json"},
 	{"key":"csp_appysv2_MX影视","name": "MX影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://mkk.gotka.top/api.php/v1.vod"},
