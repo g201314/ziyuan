@@ -1,7 +1,7 @@
  {
         "spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider1.jar",
 	"sites": [
-	{"key":"csp_Kunyu77","name":"默认主页(将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_Kunyu77","name":"默认主页(此资源将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_Kuaikan","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/qiumi.json"},
 	{"key":"csp_xpath_88看球","name": "88看球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/88kanqiu.json"},
