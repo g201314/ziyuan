@@ -45,16 +45,6 @@
 			"filterable": 1,
 			"ext": "https://www.tkys.tv/xgapp.php/v2/"
 		},
-		{
-			"key": "csp_appys_365看",
-			"name": "365看",
-			"type": 3,
-			"api": "csp_AppYs",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://www.kan365.xyz/api.php/app/"
-		},
 		{"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 		{
 			"key": "csp_appysv2_悟空影院",
@@ -66,15 +56,6 @@
 			"filterable": 1,
 			"ext": "http://dapi.pntao.com/api.php/v1.vod"
 		},
-		{
-			"key": "csp_appysv2_嗷呜视频",
-			"name": "嗷呜视频(M)",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 		{"key": "csp_appysv2_米来影视",
 			"name": "米来影视(M2)",
 			"type": 3,
@@ -95,14 +76,6 @@
 			"api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list",
 			"playUrl": "",
 			"categories": ["国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "战争片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片"]
-		},
-		{
-			"key": "趣看",
-			"name": "趣看",
-			"type": 1,
-			"api": "https://qkmp4.cn/api.php/provide/vod/",
-			"playUrl": "",
-			"categories": ["国产", "港台", "日韩", "欧美", "惊悚", "动作", "喜剧", "爱情", "科幻", "恐怖", "剧情", "战争", "纪录", "犯罪", "冒险", "悬疑", "动漫", "综艺", "奇幻"]
 		},
 		{
 			"key": "push_agent",
