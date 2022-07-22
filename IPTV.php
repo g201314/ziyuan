@@ -78,7 +78,7 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 济南都市,http://39.137.76.32:8089/00/SNM/CHANNEL00000062/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
 济南生活,http://39.137.76.32:8089/00/SNM/CHANNEL00000063/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
 济南娱乐,http://39.137.76.32:8089/00/SNM/CHANNEL00000065/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
-济南商务,http://39.137.76.32:8089/00/SNM/CHANNEL00000066/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000066/index.m3u8
+济南科教,http://39.137.76.32:8089/00/SNM/CHANNEL00000245/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000245/index.m3u8
 泰安综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000269/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
 泰安公共,http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
 新泰综合,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001029/index.m3u8#https://jsylivealone302.iqilu.com/xintai/xintai_tv01/index.m3u8#http://39.137.76.32:8089/00/SNM/CHANNEL00001029/index.m3u8#http://111.17.214.12:1935/live/xtzh/chunklist_w1201254222.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
