@@ -8,7 +8,7 @@
 	{"key":"csp_xpath_88看球","name": "88看球","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/88kanqiu.json"},
     //{"key":"FindZY","name":"影视库","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
     {"key": "AliPS","name": "阿里盘搜","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-	{"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_Wmkk","name":"完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 	//{"key": "csp_Kmys","name": "酷猫影视","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
        {"key":"csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
