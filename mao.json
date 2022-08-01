@@ -1,5 +1,6 @@
  {
-        "spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider.jar",
+     //"spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider.jar",
+	 "spider": "http://static01.imgkr.com/temp/4be9c925a036435e85d3c641efe0b70b.jpg;md5;3a477c0b071fe556277335fb2214d0c9",
 	"sites": [
 	{"key":"csp_Kunyu77","name":"默认主页(如果不能播放，将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"Gitcafe","name":"高清影视","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
