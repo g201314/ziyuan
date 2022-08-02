@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key": "精炼工厂","name": "精炼工厂",“类型”： 0， "api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml",“可搜索”： 1，“ 快速搜索”： 1，“ 可过滤”： 0}, 
+{"key": "精炼工厂","name": "精炼工厂","type":0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*探探资源","name":"*探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -897,5 +897,5 @@
   ],
   "wallpaper": "https://cdn.seovx.com/?mom=302",
 
-  "spider": "http://s1.xiaoz.fit:10006/tv/721.jar"
+  "spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider.jar"
 }
