@@ -28,7 +28,7 @@
 	{"key": "csp_xpath_dym8","name": "电影迷(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dianyingmi.json"},
 	{"key": "csp_biubiu_影视之光","name": "影视之光(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/yingshizhiguang.json"},
 	//{"key":"293视频","name":"293影院","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-	//{"key":"csp_ZJMiao","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+	{"key": "csp_xpath_wanmeikk","name": "完美看看(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/wanmeikk.json"},
 	{"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 	{"key":"csp_biubiu_vip影院","name":"vip影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/vipyy.json"},
 	{"key":"csp_biubiu_lezhu","name":"乐猪(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lzys.json"},
