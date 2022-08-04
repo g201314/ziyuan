@@ -1,4 +1,4 @@
-﻿{
+{
 	"name": "电影盒子",
 	"url": "http://m1.tv9box.com",
 	"tihuan": "cnzz.com",
@@ -55,7 +55,7 @@
 	"bfyjiequhou": "空",
 	"bfyjiequshuzuqian": "class=\"col-xs-4",
 	"bfyjiequshuzuhou": "",
-	"bfbiaotiqian": "class=\"btn btn-default btn-block btn-sm\">",
+	"bfbiaotiqian": ">",
 	"bfbiaotihou": "",
 	"bflianjieqian": "href=\"",
 	"bflianjiehou": "\""
