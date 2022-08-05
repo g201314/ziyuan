@@ -15,7 +15,7 @@
     {"key": "Ekan_spider","name": "Ekan","api": "csp_Ekan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
     {"key":"csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 	//{"key": "csp_biubiu_骚火电影","name": "骚火电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo.json"},
-	{"key":"csp_xpath_saohuo","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo2.json"},
+	{"key":"csp_xpath_saohuo","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo1.json"},
 	{"key": "csp_xpath_czspp","name": "厂长资源(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/czzy.json"},
 	{"key":"csp_AppYsV2","name": "优众影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 	{"key": "csp_xpath_jbb","name": "剧白白(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
