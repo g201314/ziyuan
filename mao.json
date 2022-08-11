@@ -54,6 +54,7 @@
 		{"name": "Json并发","type": 2,"url": "Parallel"},
 		{"name": "Json轮询","type": 2,"url": "Sequence"},
 		{"name":"江湖解析","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+		{"name": "tv解析","type": 1,"url": "http://120.233.84.226:5612/tvjx/?url=","ext": {"flag": ["ltnb","rx","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","bilibili","哔哩哔哩","哔哩","letv","乐视","sohu"]}},
 		{"name":"fuqi","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url=","ext":{"flag":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]}},
 		{"name":"线路1","type":1,"url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 		{ "name": "左岸", "type": 1, "url": "http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url=","ext":{"flag":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]}},
@@ -135,31 +136,6 @@
 					"qiyi",
 					"爱奇艺",
 					"奇艺"
-				]
-			}
-		},
-		{
-			"name": "51p解析",
-			"type": 1,
-			"url": "https://json.5lp.net/json.php?url=",
-			"ext": {
-				"flag": [
-					"ltnb",
-					"rx",
-					"renrenmi",
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"bilibili",
-					"哔哩哔哩",
-					"哔哩",
-					"letv",
-					"乐视",
-					"sohu"
 				]
 			}
 		},
