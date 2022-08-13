@@ -18,7 +18,6 @@
 	{"key":"多多资源","name":"多多资源(改为exo播放器)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "战争片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片"]},
 	{"key": "csp_CZSPP","name": "厂长资源(改为exo播放器)","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 	{"key":"csp_xpath_naifeiorg","name":"奈飞中文〔XP〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/naifei.json"},
-	{"key":"csp_IKan","name":"爱看影视(改为exo播放器)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 	{"key": "Lezhu_spider","name": "乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 	{"key":"csp_QQ","name":"腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider7.jar;md5;905177C9ED4EAEB479CF570DD5B89FAC"},
     {"key":"csp_MGTV","name":"芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider7.jar;md5;905177C9ED4EAEB479CF570DD5B89FAC"},
