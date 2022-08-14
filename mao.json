@@ -21,6 +21,7 @@
 	{"key": "Lezhu_spider","name": "乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 	{"key":"csp_QQ","name":"腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider7.jar;md5;905177C9ED4EAEB479CF570DD5B89FAC"},
     {"key":"csp_MGTV","name":"芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider7.jar;md5;905177C9ED4EAEB479CF570DD5B89FAC"},
+	{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视(XPF)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/zhanghong/TVBOXZY/raw/branch/main/XP/蚂蚁影视(XPF).json"},
 	{"key": "神马影院","name": "神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"csp_AppYsV2","name": "优众影视(改为exo播放器)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 	{"key":"csp_xp_99ys","name":"久久影视(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiujiu.json"},
