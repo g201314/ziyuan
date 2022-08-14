@@ -44,6 +44,7 @@
 	{"key":"csp_biubiu_特狗影视","name": "特狗影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"	},
 	{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
 	{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+	{"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key": "csp_appysv2_天空","name": "天空影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tkys.tv/xgapp.php/v2/"},
