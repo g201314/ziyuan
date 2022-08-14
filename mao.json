@@ -26,7 +26,7 @@
 	{"key":"csp_xp_99ys","name":"久久影视(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiujiu.json"},
 	//{"key": "csp_xpath_lezhutv","name": "乐猪TV(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lzys.json" },
 	{"key":"csp_xpath_saohuo","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo1.json"},
-	{"key":"csp_xpath_555","name":"555电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555dy.json"},
+	{"key":"csp_xpath_555","name":"555电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555dy.json"},
 	{"key": "csp_xpath_jbb","name": "剧白白(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
 	{"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/yklg.json"},
 	{"key": "csp_xpath_dym8","name": "电影迷(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dianyingmi.json"},
