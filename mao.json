@@ -3,7 +3,7 @@
 	"sites": [
 	{"key":"csp_Kunyu77","name":"默认主页(如果不能播放，将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"学堂","name":"吾爱学堂(改为exo播放器)","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xuetang.json"},
-	{"key":"csp_Blidw","name":"动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/dpdwjx001/ziyuan/-/raw/master/custom_spider2.jar;md5;57D0005E92101DA000CFBE977D7D8412"},
+	{"key":"csp_Blidw","name":"动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider2.jar;md5;57D0005E92101DA000CFBE977D7D8412"},
 	{"key": "Nfyun","name": "Nfyun(sp)","type": 3,"api": "csp_Nfyun","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider2.jar;md5;57D0005E92101DA000CFBE977D7D8412"},
 	{"key": "Gitcafe","name": "高清影视","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 	{"key":"csp_Kuaikan","name":"快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
