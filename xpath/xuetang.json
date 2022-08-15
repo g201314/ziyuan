@@ -57,7 +57,10 @@
       "type_name": "学而思",
       "type_id": "学而思"
     },
-
+   {
+      "type_name": "动物世界",
+      "type_id": "动物世界"
+    },
     {
       "type_name": "1年级语文",
       "type_id": "1年级语文"
