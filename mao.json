@@ -40,7 +40,7 @@
 	{"key": "csp_biubiu_87影院","name": "87影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/87yy.json"},
 	{"key":"csp_biubiu_特狗影视","name": "特狗影视(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/tegou.json"	},
 	{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/guapi.json"},
-	{"key":"天堂资源","name":"天堂资源(改为exo播放器)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","哔哩哔哩"]},
+	{"key":"天堂资源","name":"天堂资源(改为exo播放器)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫","国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","哔哩哔哩"]},
 	{"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
