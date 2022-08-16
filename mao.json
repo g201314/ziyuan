@@ -186,7 +186,7 @@
 			"url": "https://z1.m1907.cn/?jx="
 		}
 	],
-	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "duoduozy", "longteng", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "xueren", "xfyun", "ziqie", "wuduzy", "cctv", "xfyun", "xigua", "CL4K", "xuanfeng", "m1905", "1920l"],
+	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "duoduozy", "longteng", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "xueren", "xfyun", "ziqie", "wuduzy", "cctv", "xigua", "CL4K", "xuanfeng", "duoduo", "m1905", "1920l"],
 	"ijk": [{
 			"group": "软解码",
 			"options": [{
