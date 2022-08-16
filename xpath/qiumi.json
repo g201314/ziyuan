@@ -1,13 +1,15 @@
 {
-	"author": "dj",
-	"ua": "",
-	"homeUrl": "http://www.jrskan.com/",
-	//"homeUrl": "http://jrsbxj.com/",
-	//"homeUrl": "http://jrsyyds.com/",
-
-	"cateManual": 
-	{"球赛直播": "1"	},
-// 首页推荐视频的节点
+    "author": "JRKAN直播",
+    "ua": "",
+    "homeUrl": "http://www.jrskan.com/",
+    //"homeUrl": "http://jrsbxj.com/",
+    //"homeUrl": "http://jrsyyds.com/",
+    
+    "cateManual": {
+        "JRKAN直播": "1"
+    },
+	
+	// 首页推荐视频的节点
     "homeVodNode": "//ul[@data-stype='zqlq']",
 	// 首页推荐视频的名称
     //"homeVodName": "/li[@class='lab_events']/span/text()",
