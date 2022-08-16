@@ -12,7 +12,7 @@
 	{"key":"csp_Bttoo","name":"在线影视(改为exo播放器)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider4.jar;md5;4BB140374F74FC87B306F1E5A6D8BBEA"},
     {"key": "AliPS","name": "阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
 	{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视(XP)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/myys.json"},
-	{"key":"csp_SP293","name":"293视频(改为exo播放器)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"csp_SP293","name":"293视频(改为exo播放器)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider2.jar;md5;57D0005E92101DA000CFBE977D7D8412"},
 	{"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 	{"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 	{"key":"csp_xp_gongreng","name":"工人影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/gryy.json"},
