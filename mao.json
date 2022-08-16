@@ -4,7 +4,6 @@
 	{"key":"csp_Kunyu77","name":"默认主页(如果不能播放，将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"学堂","name":"吾爱学堂(改为exo播放器)","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xuetang.json"},
 	{"key":"csp_Blidw","name":"动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider2.jar;md5;57D0005E92101DA000CFBE977D7D8412"},
-	//{"key":"Nfyun","name":"Nfyun(sp)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider2.jar;md5;57D0005E92101DA000CFBE977D7D8412"},
 	{"key": "Gitcafe","name": "高清影视","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 	{"key":"csp_Kuaikan","name":"快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"csp_xpath_网络搜集库qiumi","name": "球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/qiumi.json"},
@@ -12,6 +11,7 @@
     //{"key":"FindZY","name":"影视库","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
 	{"key":"csp_Bttoo","name":"在线影视(改为exo播放器)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider4.jar;md5;4BB140374F74FC87B306F1E5A6D8BBEA"},
     {"key": "AliPS","name": "阿里盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+	{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视(XP)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/myys.json"},
 	{"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 	{"key":"csp_LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 	{"key":"csp_xp_gongreng","name":"工人影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/gryy.json"},
@@ -19,13 +19,9 @@
 	{"key": "csp_CZSPP","name": "厂长资源(改为exo播放器)","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 	{"key":"csp_xpath_naifeiorg","name":"奈飞中文〔XP〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/naifei.json"},
 	{"key": "Lezhu_spider","name": "乐猪影视(SP)","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
-	//{"key":"csp_QQ","name":"腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider7.jar;md5;905177C9ED4EAEB479CF570DD5B89FAC"},
-    //{"key":"csp_MGTV","name":"芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider7.jar;md5;905177C9ED4EAEB479CF570DD5B89FAC"},
-	{"key": "csp_xpath_蚂蚁影视","name": "蚂蚁影视(XP)️","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/myys.json"},
 	{"key": "神马影院","name": "神马影院(SP)","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{"key":"csp_AppYsV2","name": "优众影视(改为exo播放器)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
 	{"key":"csp_xp_99ys","name":"久久影视(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiujiu.json"},
-	//{"key": "csp_xpath_lezhutv","name": "乐猪TV(XP)","type": 3,"api": "csp_XPathMac","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lzys.json" },
 	{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555.json"},
 	{"key":"csp_xpath_saohuo","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo1.json"},
 	{"key": "csp_xpath_jbb","name": "剧白白(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
@@ -168,44 +164,6 @@
           "1905",
           "m1905"
         ]
-      }
-    },
-    {
-      "name": "视界",
-      "type": 1,
-      "url": "http://150.230.216.174/tvjx.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "iqiyi",
-          "奇艺",
-          "爱奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "xigua",
-          "西瓜",
-          "sohu",
-          "搜狐",
-          "cntv",
-          "cctv",
-          "央视",
-          "1905",
-          "m1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
       }
     },
 		{"name":"QIM解1","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
