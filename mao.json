@@ -26,6 +26,7 @@
 	{"key": "csp_xpath_jbb","name": "剧白白(XP)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
 	{"key": "csp_biubiu_yekong","name": "夜空高清(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/yklg.json"},
 	{"key": "csp_xpath_dym8","name": "电影迷(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dianyingmi.json"},
+	{"key":"csp_appysv2_零刻影院(XP)","name":"零刻影院(改为exo播放器)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
 	{"key":"csp_xpath_6d","name":"六度TV(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/6du.json"},
 	{"key":"csp_biubiu_vip影院","name":"vip影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/vipyy.json"},
 	{"key":"csp_biubiu_69美剧","name":"69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/69mj.json"},
