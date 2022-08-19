@@ -23,7 +23,7 @@
 {"key":"KanSJ_spider","name":"看视界(改为exo播放器)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_AppYsV2","name":"优众影视(改为exo播放器)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"csp_xp_99ys","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jiujiu.json"},
-{"key":"Dy555","name":"555(sp)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Dy555","name":"555(sp)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider1.jar6;md5;3B42E09F152DB76F768F68F4727F9E90"},
 {"key":"csp_xpath_saohuo","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo1.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
 {"key":"csp_biubiu_yekong","name":"夜空高清(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/yklg.json"},
