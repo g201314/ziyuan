@@ -1,4 +1,4 @@
-﻿电视直播,#genre#
+电视直播,#genre#
 CCTV-1综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000311/index.m3u8#http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT#http://120.221.5.113:8089/PLTV/88888888/224/3221225859/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://39.137.76.32:8089/00/SNM/CHANNEL00000317/index.m3u8#http://39.130.204.134:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8?IASHttpSessionId=OTT#http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-3综艺,http://39.137.76.32:8089/00/SNM/CHANNEL00000359/index.m3u8#http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://39.134.68.169:6610/PLTV/88888888/224/3221226021/index.m3u8?#http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8#http://39.135.138.58:18890/PLTV/88888910/224/3221225647/index.m3u8#http://ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8#http://39.137.76.32:8089/00/SNM/CHANNEL00000003/index.m3u8
@@ -122,3 +122,13 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.179.150:80/PLTV/88888888/224/3221231799/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://iptv.tvfix.org/hls/cctv4k.m3u8#http://livews-tp4k.cctv.cn/hls/4K10M.stream/1.m3u8#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+年代MUCH,http://61.219.170.95:18558/.m3u8
+民視新聞,http://61.219.170.95:18563/http/192.168.1.9:8081/hls/73/815/ch51.m3u8
+台视,http://61.219.170.95:18543/.m3u8
+中天新闻,http://61.219.170.95:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://61.219.170.95:18513/.m3u8
+中天新闻,http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://104.192.80.27:9500/live.m3u8?c=2
+凤凰资讯,http://61.219.170.95:18565/.m3u8
+凤凰资讯,http://61.219.170.95:18565/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+東森新聞,http://61.219.170.95:18512/http/192.168.1.9:8081/hls/63/805/ch10.m3u8
