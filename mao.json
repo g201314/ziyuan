@@ -1,4 +1,4 @@
-﻿{
+{
 "spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider_xc0822w.jar;md5;23A7B8AB50EAD897FD733E5C52C5F3FD",
 "sites":[
 {"key":"csp_Kunyu77","name":"默认主页(如果不能播放,将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -6,7 +6,7 @@
 {"key":"csp_Blidw","name":"动物世界(改为exo播放器)","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_网络搜集库qiumi","name": "球赛直播","type":3,"api": "csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/qiumi.json"},
 //{"key":"csp_xpath_88看球","name": "88看球","type": 3,"api": "csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/88kanqiu.json"},
-{"key":"csp_Yiso","name":"易搜影视","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+{"key":"csp_Yiso","name":"易搜影视","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"zhaozy","name":"影视仓库","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "28801b1dbaf4418fb7bc221a575703dd"},
 {"key":"Gitcafe","name":"高清影视","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_Kuaikan","name":"快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -56,7 +56,10 @@
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","categories": ["国产剧","港台剧","日韩剧","欧美剧", "惊悚片", "战争片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片"]},
 {"key":"诺讯资源","name": "诺讯资源","type":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/?ac=list","playUrl": "","categories":["国产剧","港台剧","日韩剧","欧美剧","惊悚片","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"}],
-	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xZHBkd2p4MDAxL3ppeXVhbi8tL3Jhdy9tYXN0ZXIvbWFvLnBocA=="]}]	}],
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xZHBkd2p4MDAxL3ppeXVhbi8tL3Jhdy9tYXN0ZXIvbWFvLnBocA=="]}]	}],
 	"parses": [
 		{"name": "解析聚合","type": 3,"url": "Demo"},
 		{"name": "Json并发","type": 2,"url": "Parallel"},
