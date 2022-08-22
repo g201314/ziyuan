@@ -6,7 +6,7 @@
 {"key":"csp_Blidw","name":"动物世界(改为exo播放器)","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_网络搜集库qiumi","name": "球赛直播","type":3,"api": "csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/qiumi.json"},
 //{"key":"csp_xpath_88看球","name": "88看球","type": 3,"api": "csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/88kanqiu.json"},
-{"key":"csp_Yiso","name":"易搜影视","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider_xc0820w.jar;md5;376002E983A56C4095BECFE0F99BB578"},
+{"key":"csp_Yiso","name":"易搜影视","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider_xc0822w.jar;md5;23A7B8AB50EAD897FD733E5C52C5F3FD"},
 {"key":"zhaozy","name":"影视仓库","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "28801b1dbaf4418fb7bc221a575703dd"},
 {"key":"Gitcafe","name":"高清影视","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
 {"key":"csp_Kuaikan","name":"快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
