@@ -1,4 +1,4 @@
-﻿电视直播,#genre#
+电视直播,#genre#
 CCTV-1综合,http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2财经,http://39.130.204.134:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8?IASHttpSessionId=OTT
 CCTV-3综艺,http://39.135.133.178:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -50,4 +50,3 @@ NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-中天新闻,http://59.125.122.90:18513/http/192.168.1.9:8081/hls/78/80/ch63max.m3u8
