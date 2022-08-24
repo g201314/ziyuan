@@ -50,13 +50,3 @@ NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-中天新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=33
-台视新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=29
-民视新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=32
-镜新闻台,http://146.56.155.239:9000/jmsytb.m3u8?c=23
-TVBS新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=31
-TVBS-HD,http://146.56.155.239:9000/jmsytb.m3u8?c=30
-中视新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=28
-东森新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=22
-东森财经,http://146.56.155.239:9000/jmsytb.m3u8?c=26
-寰宇新闻,http://146.56.155.239:9000/jmsytb.m3u8?c=25
