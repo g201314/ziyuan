@@ -2,7 +2,7 @@
   "classes": [
     {
       "type_name": "动物世界",
-      "type_id": "动物世界"
+      "type_id": "动物世界超清"
     },
     {
       "type_name": "儿童早教",
@@ -103,7 +103,7 @@
     }
   ],
 "filter": {
-    "动物世界": [
+    "动物世界超清": [
       {
         "key": "duration",
         "name": "时长",
