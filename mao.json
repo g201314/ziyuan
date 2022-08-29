@@ -1,7 +1,8 @@
 {
 "spider":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider-xc0828.jar;md5;0E628833700DD1B175C18C71D2DE1B52",
 "sites":[
-{"key":"csp_Kunyu77","name":"默认主页(如果不能播放,将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"多多资源","name":"默认主页","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["国产剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","港台剧","惊悚片","剧情片","日韩剧","欧美剧"]},
+//{"key":"csp_Kunyu77","name":"默认主页(如果不能播放,将播放器切换成exo播放器)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"学堂","name":"吾爱学堂(改为exo播放器)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xuetang.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider-bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"Bili","name":"儿童教育(改为exo播放器)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/ertong.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider-bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 //{"key":"t4public","name":"影视聚合搜索库","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
@@ -14,7 +15,6 @@
 {"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Bttoo","name":"在线影视(改为exo播放器)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AliPS","name":"阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"28801b1dbaf4418fb7bc221a575703dd"},
-{"key":"多多资源","name":"多多资源","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","日韩剧","欧美剧","惊悚片","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"csp_biubiu_voflix","name":"voflix","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/voflix.json"},
 {"key":"csp_xpath_蚂蚁影视","name":"蚂蚁影视(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/myys.json"},
 //{"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
