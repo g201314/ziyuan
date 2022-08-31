@@ -122,10 +122,4 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.179.150:80/PLTV/88888888/224/3221231799/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://iptv.tvfix.org/hls/cctv4k.m3u8#http://livews-tp4k.cctv.cn/hls/4K10M.stream/1.m3u8#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
-中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8#http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kkM6-v0lhpdovjIS72tX1T8
-中视新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8krmuYSEdTBl6kDXfxrarzpA
-东森新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kgnaMfXOp6s63WtFf63urpQ
-寰宇新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8ki7xh2d4oc-Wy0xxJvE0Z8U
-非凡新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kvuOJCltT947Tkr2GBmtPR0
-民视新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kid6_NPcF39Rjly8rxJacrY
-TVBS新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kiAExykaOcDOdrrCKAYA8zg
+中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
