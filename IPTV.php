@@ -129,5 +129,3 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://121.18.168.210/liveop
 非凡新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kvuOJCltT947Tkr2GBmtPR0
 民视新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kid6_NPcF39Rjly8rxJacrY
 TVBS新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kiAExykaOcDOdrrCKAYA8zg
-
-
