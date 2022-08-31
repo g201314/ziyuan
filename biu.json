@@ -1,4 +1,4 @@
-﻿{
+{
 	"zhuyejiekou": [
 		{
 			"name": "独播社",
@@ -74,11 +74,11 @@
 		}
 	],
 	"caijizhan": [{
-		"name": "七七影视",
-		"url": "http://api.kunyu77.com/api.php"
+		"name": "多多影视",
+		"url": "https://www.ddzyz1.com/api.php"
 	}, {
-		"name": "酷猫影视",
-		"url": "https://www.pgcms10.com/api.php"
+		"name": "北燕影视",
+		"url": "https://zy.beiyan.cc:4433/api.php"
 	}, {
 		"name": "松鼠资源",
 		"url": "https://m3u8.songshuzy.com/api.php"
