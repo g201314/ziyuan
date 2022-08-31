@@ -51,10 +51,3 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-中天新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kkM6-v0lhpdovjIS72tX1T8
-中视新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8krmuYSEdTBl6kDXfxrarzpA
-东森新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kgnaMfXOp6s63WtFf63urpQ
-寰宇新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8ki7xh2d4oc-Wy0xxJvE0Z8U
-非凡新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kvuOJCltT947Tkr2GBmtPR0
-民视新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kid6_NPcF39Rjly8rxJacrY
-TVBS新闻,http://hs.crtvhstv.xyz:80/play/WJ2FfABYjXmtFvha8EO8kiAExykaOcDOdrrCKAYA8zg
