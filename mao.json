@@ -41,7 +41,7 @@
 {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
 {"key":"csp_AppYsV2","name":"优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"csp_xpath_dym8","name":"电影迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dianyingmi.json"},
-{"key":"csp_appysv2_零刻影院(XP)","name":"零刻影院(改为exo播放器)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
+{"key":"csp_xpath_电影牛","name":"电影牛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dyn.json"},
 {"key":"北雁影视","name":"北雁影视(改为exo播放器)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 {"key":"csp_biubiu_69美剧","name":"69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/69mj.json"},
 {"key":"csp_biubiu_饭团影院","name": "饭团影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"},
