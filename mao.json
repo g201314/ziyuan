@@ -14,7 +14,7 @@
 {"key":"csp_Wmkk","name":"完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_XYQBiu_凌云影视","name": "凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lyys.json"},
 {"key":"csp_XYQBiu_万能影院","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/wnys1.json"},
-{"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/umyy.json"},
+{"key":"csp_xpath_UM","name":"UM影院(XPMF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/umyy.json","jar":"https://gitea.com/hongdeng98/TVBox/raw/branch/main/jar/0903.jar"},
 //{"key":"csp_xp_wnvod","name":"万能影院(改为exo播放器)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/wnyy.json"},
 {"key":"csp_Bttoo","name":"在线影视(改为exo播放器)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
