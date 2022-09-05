@@ -27,7 +27,7 @@ CCTV-5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
 广东卫视,http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8?zweimd
-四川卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/1.m3u8
+四川卫视,http://112.17.40.220/PLTV/88888888/224/3221231885/index.m3u8
 重庆卫视,http://39.135.34.144:8080/000000001000/1000000002000018937/index.m3u8?test/PLTV/=02
 黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8?
 广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225731/index.m3u8
