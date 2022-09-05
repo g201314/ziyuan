@@ -21,13 +21,12 @@ CCTV-5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 浙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
 江苏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225743/index.m3u8
-山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+山东卫视,http://111.40.196.36/PLTV/88888888/224/3221225545/index.m3u8?
+东方卫视,http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8?
+安徽卫视,http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8?zweimd
 深圳卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
-广东卫视,http://111.40.196.9/PLTV/88888888/224/3221225533/index.m3u8
+广东卫视,http://111.40.196.32/PLTV/88888888/224/3221225533/index.m3u8?zweimd
 四川卫视,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/1.m3u8
 重庆卫视,http://39.135.34.144:8080/000000001000/1000000002000018937/index.m3u8?test/PLTV/=02
 黑龙江卫视,http://111.40.196.38/PLTV/88888888/224/3221225544/index.m3u8?
