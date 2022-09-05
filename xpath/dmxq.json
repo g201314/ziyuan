@@ -5,12 +5,8 @@
   "tihuan": "cnzz.com",
   "User": "User-Agentart/2.14 (dart:io)",
   "shouye": "1",
-
-
   "fenlei": "Netflix$/vodshow/20---Netflix-----#电影$/vodshow/20--------#电视剧$/vodshow/21--------#动漫$/vodshow/22--------#综艺$/vodshow/23--------",
   "houzhui": "---/pjax/YES.html",
-
-
   "shifouercijiequ": "1",
   "jiequqian": "module-page \"",
   "jiequhou": "id=\"page",
@@ -22,13 +18,6 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-
-
-  
-
-
-
-
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/voddetail/",
@@ -47,24 +36,17 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
-
-
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"module-play-list\"",
-  "bfjiequshuzuhou": "</div>",
-
-
-  
+  "bfjiequshuzuhou": "</div>", 
   "daoyanqian": "导演：</span>",
   "daoyanhou": "</div>",
   "zhuyanqian": "主演：</span>",
   "zhuyanhou": "</div>",
   "juqingqian": "<p>",
   "juqinghou": "</p>",
-
-
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
