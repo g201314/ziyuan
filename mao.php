@@ -69,5 +69,5 @@ CCTV-5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 Newtv军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
 NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
-HBO,rtmp://pull-f5-spe.ixigua.com/live/rtmvmzglipwqjctjfhjvrjgjuglvcbeywerweefshgfhhksggcxhbo
+东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
