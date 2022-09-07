@@ -68,7 +68,6 @@ CCTV-5+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 湖北卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225740/index.m3u8
 海南卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568
 海南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
-上海新闻,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8
 上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
