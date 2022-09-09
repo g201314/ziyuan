@@ -45,7 +45,7 @@
 {"key":"csp_SP360","name":"360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"北雁影视","name":"北雁影视(改为exo播放器)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 {"key":"csp_biubiu_69美剧","name":"69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/69mj.json"},
-{"key":"csp_QXBiubiu_歪片星球","name":"歪片星球(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/QXBiubiu.jar","ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/wpxq.json"},
+{"key":"csp_QXBiubiu_歪片星球","name":"歪片星球(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/yan11xx/TVBox/raw/branch/main/jar/QXBiubiu.jar","ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/wpxq.json"},
 {"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dmxq.json"},
 {"key":"mtv_pc_小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_饭团影院","name": "饭团影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/fantuan.json"},
