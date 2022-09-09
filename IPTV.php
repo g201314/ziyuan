@@ -85,7 +85,7 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 东平新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00001001/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
 岱岳综合,http://slvedio.slradio.cn/a935908a217711ea8bb000163e0e6522/4D6357B92240C088F3612E43E44B5F1D.m3u8#https://jsylivealone302.iqilu.com/daiyue/daiyue_tv01/index.m3u8?t=1645527670&k=5ceb65988c57cc2426e93ad924d57f04
 肥城综合,http://39.137.76.32:8089/00/SNM/CHANNEL00001039/index.m3u8
-潍坊新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000215/index.m3u8#http://stream.wfcmw.cn/1/sd/live.m3u8#http://stream.wfcmw.cn/1/playlist.m3u8
+潍坊新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000215/index.m3u8#http://sobeylingyun02pull.sobeylive.com/live/wf1pd.m3u8?shandd#http://stream.wfcmw.cn/1/sd/live.m3u8#http://stream.wfcmw.cn/1/playlist.m3u8
 潍坊都市,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000216/index.m3u8#http://stream.wfcmw.cn/2/sd/live.m3u8#http://stream.wfcmw.cn/2/playlist.m3u8
 临沂综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000120/index.m3u8#http://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 淄博新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000292/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221226014/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
