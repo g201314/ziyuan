@@ -27,6 +27,7 @@
 {"key":"csp_biubiu_vip影院","name":"vip影院(改为exo播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/vipyy.json"},
 {"key":"csp_xpath_xqmi","name":"小强迷(改为exo播放器)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xiaoqiang.json"},
 {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_gongreng","name":"工人影院(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/gryy.json"},
 {"key":"csp_appysv2_555电影","name":"555电影(改为exo播放器)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
 //{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/555.json"},
