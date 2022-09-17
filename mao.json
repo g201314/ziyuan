@@ -45,7 +45,7 @@
 {"key":"csp_AppYsV2","name":"优众影视(改为exo播放器)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.178:8090/xgapp.php/v2/"},
 {"key":"csp_xp_jLgyy","name":"蓝光影院(改为exo播放器)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lgyy.json"},
 {"key":"csp_xpath_saohuo","name":"骚火电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/saohuo1.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
+{"key":"csp_QXBiubiu_剧白白","name":"剧白白(QXB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/jubaibai.json"},
 {"key":"csp_xpath_dym8","name":"电影迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/dianyingmi.json"},
 {"key":"csp_SP360","name":"360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"北雁影视","name":"北雁影视(改为exo播放器)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
