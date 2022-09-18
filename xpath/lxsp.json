@@ -1,4 +1,4 @@
-﻿//写法思路来海阔视界，xpath筛选。
+//写法思路来海阔视界，xpath筛选。
 //本文档为完整模板，实际情况可按规则写法删去不需要的。
 {
     //规则名
@@ -17,9 +17,9 @@
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://www.lenxitv.cc/s/{cateId}--{by}------{catePg}---{year}.html",
     //分类名，分类1&分类2&分类3
-    "class_name": "电影&电视剧&综艺&动漫&体育&电影解说&福利",
+    "class_name": "电影&电视剧&综艺&动漫&体育",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "class_value": "movie&tv&zongyi&dongman&tiyu&dianyingjieshuo&fuli",
+    "class_value": "movie&tv&zongyi&dongman&tiyu",
     //筛选数据，json格式，参考官方仓库的筛选写法
     "filterdata":{},
     //分类页面截取数据模式，0为json，1为普通网页。
