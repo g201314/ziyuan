@@ -9,7 +9,7 @@
     //请求头UA,键名$键值，每一组用#分开，不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
     //多个请求头参数写法示例，"User-Agent$PC_UA#Referer$http://ww.baidu.com#Cookie$ser=ok",每一组用#分开。
     //习惯查看手机源码写建议用手机版UA，习惯查看PC版源码写建议用电脑版UA
-    "Headers":"PC_UA",
+    "Headers":"MOBILE_UA",
     //网页编码格式默认UTF-8编码，UTF-8，GBK，GB2312
     "Coding_format":"UTF-8",
     //图片是否需要代理
@@ -50,12 +50,12 @@
     
     //搜索请求头参数,不填则默认okhttp/3.12.11，可填MOBILE_UA或PC_UA使用内置的手机版或电脑版UA
     //多个请求头参数写法示例，键名$键值，每一组用#分开。"User-Agent$PC_UA#Referer$http://ww.baidu.com#Cookie$ser=ok"。
-    "SHeaders":"User-Agent$PC_UA",
+    "SHeaders":"MOBILE_UA",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
     "search_url": "http://h1080p.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
     //POST搜索Params参数，只支持utf-8编码的请求，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
-    "sea_PtBody":"wd={wd}&search=",
+    "sea_PtBody":"",
     
     //搜索截取模式,0为json搜索，只支持列表在list数组里的，其它数字为网页截取。
     "search_mode": "0",
