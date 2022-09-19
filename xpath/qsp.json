@@ -86,22 +86,13 @@
     //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
     "play_header": "authority$ku.peizq.online#Referer$https://play.peizq.online",
     
-    //项目信息jsoup与xb截取写法切换，1为jsoup写法(默认)，0为xb写法
-    "proj_is_jsoup":"1",
-    //类型数据，截取前缀&&截取后缀
-    "proj_cate": "",
-    //年代数据，截取前缀&&截取后缀
-    "proj_year": "",
-    //地区数据，截取前缀&&截取后缀
-    "proj_area": "",
-    //演员数据，截取前缀&&截取后缀
-    "proj_actor": ".myui-content__detail&&p,2&&Text!演员：",
+    "proj_actor": ".module-info-item-content,1&&Text",
     //简介内容，截取前缀&&截取后缀
-    "proj_plot": ".myui-content__detail&&p,-1&&Text!简介：",
+    "proj_plot": ".module-info-introduction-content&&Text",
     
     //线路截取区域，如果不需要请把tab_title或tab_arr_rule置空或者全部不要填。
     //线路截取数组
-    "tab_arr_rule":".module-info-introduction-content&&Text",
+    "tab_arr_rule":".module-tab-items-box&&.module-tab-item",
     //线路标题，截取前缀&&截取后缀
     "tab_title": "Text",
     
