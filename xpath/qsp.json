@@ -103,7 +103,7 @@
     //线路截取数组
     "tab_arr_rule":".module-info-introduction-content&&Text",
     //线路标题，截取前缀&&截取后缀
-    "tab_title": "a&&alt",
+    "tab_title": "Text",
     
     //列表数组截取，必须
     "list_arr_rule": "body&&.module-play-list-content",
