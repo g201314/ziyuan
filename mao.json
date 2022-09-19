@@ -34,6 +34,7 @@
 {"key":"csp_appysv2_萌蛋蛋","name":"萌蛋蛋(APP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"csp_biubiu_vip影院","name":"vip影院(改为exo播放器)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/vipyy.json"},
 {"key":"csp_xpath_xqmi","name":"小强迷(改为exo播放器)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xiaoqiang.json"},
+{"key":"csp_biubiu_北川影视","name":"北川影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/bcys.json"},
 {"key":"KanSJ_spider","name":"看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"剧荒TV(SP)","name":"剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"追剧喵","name":"追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
