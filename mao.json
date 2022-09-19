@@ -1,5 +1,5 @@
 {
-"spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider-xc0917.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA",
+"spider": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider-xc0917.jar;md5;4FBFCC5F52D2C063F0EA4F0B9BCC04E4",
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xZHBkd2p4MDAxL3ppeXVhbi8tL3Jhdy9tYXN0ZXIvbWFvLnBocA=="]}]}],
 "sites":[
