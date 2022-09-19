@@ -9,8 +9,8 @@
     "homeContent":"0",
     "firstpage": "1",
     "class_url": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "class_name": "电影&电视剧&综艺&动漫",
-    "class_value": "1&2&31&3",
+    "class_name": "电视剧&电影&综艺&动漫",
+    "class_value": "2&1&31&3",
     "filterdata":{},
     "cat_mode": "1",
     
