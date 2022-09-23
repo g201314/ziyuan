@@ -92,8 +92,8 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 北京新闻,http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8#http://live.funhillrm.com/5/sd/live.m3u8?zbeid#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8#http://221.179.136.140:443/PLTV/88888888/224/3221226437/1.m3u8
 北京科教,http://111.62.156.15/pull.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8#http://221.179.136.142:443/PLTV/88888888/224/3221226559/1.m3u8
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-南京18,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
-南京科教,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8#http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/xwzhhd/2300000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8#http://117.156.28.119/PLTV/88888888/224/3221225683/index.m3u8
