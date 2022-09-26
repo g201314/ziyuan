@@ -6,6 +6,7 @@
 {"key":"多多资源","name":"默认主页(如果不能播放或播放无声音,切换播放器使用)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","科幻片","灾难片","剧情片","日韩剧","欧美剧"]},
 {"key":"csp_xBPQ","name":"️真不卡(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/zbkk.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
 {"key":"csp_xBPQ_酷客影视","name":"酷客影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/kkys.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
+{"key":"csp_NianYing","name":"念影影视","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XYQBiu_凌云影视","name":"凌云影视(XYQH)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/lyys.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XYQPlugin_0922.jar"},
 {"key":"csp_Kuaikan","name":"快看影视(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"学堂","name":"吾爱学堂(改为exo播放器)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/xpath/xuetang.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/custom_spider-bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
