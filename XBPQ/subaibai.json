@@ -35,7 +35,7 @@
 "过滤词":"",
 "播放请求头": "",
 
-"搜索url": "https://www.subaibaiys.com/grabble?q",
+"搜索url": "https://www.subaibaiys.com/grabble?q=",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组": "<li>&&</li>",
