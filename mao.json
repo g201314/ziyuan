@@ -6,7 +6,7 @@
 {"key":"多多资源","name":"默认主页(如果不能播放或播放无声音,切换播放器使用)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","科幻片","灾难片","剧情片","日韩剧","欧美剧"]},
 {
       "key": "csp_xBPQ_番茄",
-      "name": "番茄影视(XBPQ)",
+      "name": "番茄影视(www)",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
