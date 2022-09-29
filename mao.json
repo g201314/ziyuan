@@ -4,7 +4,8 @@
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9xZHBkd2p4MDAxL3ppeXVhbi8tL3Jhdy9tYXN0ZXIvbWFvLnBocA=="]}]}],
 "sites":[
 {"key":"多多资源","name":"默认主页(如果不能播放或播放无声音,切换播放器使用)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","科幻片","灾难片","剧情片","日韩剧","欧美剧"]},
-{"key":"csp_xBPQ","name":"️真不卡(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/zbkk.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
+{"key":"csp_xBPQ","name":"️真不卡(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\": \"module-info-introduction-content&&</div>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html\",\"年份\":\"1990-2022\",
+\"筛选\":\"1\"}","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
 {"key":"csp_xBPQ_98影院","name":"98影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/98yy.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
 {"key":"csp_xBPQ_酷客","name":"酷客影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/kkys.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
 {"key":"csp_NianYing","name":"急速影院(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
