@@ -118,5 +118,3 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://iptv.tvfix.org/hls/cctv4k.m3u8#http://livews-tp4k.cctv.cn/hls/4K10M.stream/1.m3u8#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-TVBS新聞台,http://218.93.208.119:54799/tw/index.php?id=17
-中视新闻,http://218.93.208.119:54799/tw/index.php?id=22
