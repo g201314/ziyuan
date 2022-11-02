@@ -11,7 +11,7 @@
 {"key":"Bili","name":"儿童教育(改为exo播放器)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/custom_spider-bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"csp_XYQBiu_17kan","name":"一起看球赛","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/17kan.json"},
 {"key":"csp_xpath_网络搜集库qiumi","name":"球赛直播","type":3,"api": "csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/qiumi.json"},
-{"key":"Gitcafe","name":"高清影视(改为IJK播放器)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"token;desc","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/top97.jar"},
+{"key":"Gitcafe","name":"高清影视(改为IJK播放器)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"998c79f4f189435090049164d503e4e3"},
 {"key":"csp_Upyunso","name":"阿里影院(改为IJK播放器)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"token;desc","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/top97.jar"},
 {"key":"csp_Bttoo","name":"在线影视(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_xBPQ_555影视","name":"555影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/555dy.json"},
