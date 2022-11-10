@@ -104,9 +104,7 @@
     {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
     {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "duoduozy", "longteng", "renrenmi", "优酷", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "xueren", "xfyun", "ziqie", "wuduzy", "cctv", "xigua", "CL4K", "xuanfeng", "duoduo", "m1905", "1920l"],
-	
-
-	"ijk": [{
+"ijk": [{
 		"group": "软解码",
 		"options": [{
 			"category": 4,
