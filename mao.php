@@ -162,7 +162,9 @@ CCTV-5体育+,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 湖北卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225740/index.m3u8
 海南卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226465/index.m3u8?IASHttpSessionId=OTT1348220220515070053339568
 海南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
-上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8$高清1080P
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8$高清1080P
+金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8$高清1080P
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
