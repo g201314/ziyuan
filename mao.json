@@ -21,7 +21,7 @@
 {"key":"yisou","name":"阿里影视(无广告)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/top97.jar"},
 {"key":"csp_Upyunso","name":"高清影院(无广告)","type":3,"api":"csp_Upyunso","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 //{"key":"找资源","name":"找资源(无广告)","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/top97.jar"},
-{"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
+{"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"mtv_pc_Zjdr","name":"追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"棉花影视","name":"棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"playerType":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/qiaoji.jar"},
 {"key":"csp_xb_zbk","name":"真不卡(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext": "https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/top97.jar"},
