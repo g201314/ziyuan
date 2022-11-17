@@ -64,7 +64,7 @@
 {"key":"易看资源","name":"易看资源(M)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2},
 {"key":"csp_biubiu_影视之光","name":"影视之光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/yingshizhiguang.json"},
 {"key":"csp_biubiu_87影院","name":"87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/87yy.json"},
-{"key":"红牛资源","name":"红牛资源(M)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","港台剧","日韩剧","欧美剧","惊悚片","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
+{"key":"红牛资源","name":"红牛资源(M)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","惊悚片","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"csp_appysv2_悟空影院","name":"悟空影院(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"快播资源","name":"快播资源(M)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2},
 {"key":"量子资源","name":"量子资源(M)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","playerType":2,"categories":["国产剧","港台剧","日韩剧","欧美剧","惊悚片","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
