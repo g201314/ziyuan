@@ -91,7 +91,6 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 临沂综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000120/index.m3u8#http://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 淄博新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000292/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221226014/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8#http://221.179.136.140:443/PLTV/88888888/224/3221226437/1.m3u8
-北京文艺,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8?zbeid#http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8?zbeid#http://117.148.179.160/PLTV/88888888/224/3221231570/index.m3u8?zbeid
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
