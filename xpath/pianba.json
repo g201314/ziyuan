@@ -378,7 +378,7 @@
     
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "http://www.pbpb.tv/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_url": "http://www.pbpb.com/index.php/ajax/suggest?mid=1&wd={wd}",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
     "sea_PtBody":"",
     //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
@@ -413,7 +413,7 @@
     //搜索片单链接，截取前缀&&截取后缀
     "sea_url": "",
     //搜索片单链接补前缀
-    "search_prefix": "http://www.pbpb.tv/html/",
+    "search_prefix": "http://www.pbpb.com/html/",
     //搜索片单链接补后缀，这个一般json搜索的需要
     "search_suffix": ".html",
     //搜索副标题，截取前缀&&截取后缀
