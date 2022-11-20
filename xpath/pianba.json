@@ -9,12 +9,12 @@
     //请求头Referer参数，如果只是播放页需要，填WebView即可引用播放页的链接作嗅探Referer参数。
     //一般很少用，留空或删除
     "Referer":"",
-    //是否开启获取首页数据，0关闭，1开启http://www.pbpb.tv/class/5-%E5%A4%A7%E9%99%86-time-%E6%82%AC%E7%96%91-%E5%9B%BD%E8%AF%AD-------2022.html
+    //是否开启获取首页数据，0关闭，1开启http://www.pbpb.com/class/5-%E5%A4%A7%E9%99%86-time-%E6%82%AC%E7%96%91-%E5%9B%BD%E8%AF%AD-------2022.html
     "homeContent":"1",
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-"class_url": "http://www.pbpb.tv/class/{cateId}{catelog}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
+"class_url": "http://www.pbpb.com/class/{cateId}{catelog}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
     //分类名，分类1&分类2&分类3
     "class_name": "电影&电视剧&综艺&动漫",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
