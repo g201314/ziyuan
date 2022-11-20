@@ -8,7 +8,7 @@
     "PicNeedProxy":"0",
     "homeContent":"0",
     "firstpage": "1",
-    "class_url": "http://h1080p.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "class_url": "https://h1080p.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
     "class_name": "电影&电视剧&综艺&动漫",
     "class_value": "1&2&31&3",
     "filterdata":{
@@ -261,13 +261,13 @@
 
     "cat_subtitle":".module-item-note&&Text",
 
-    "cat_prefix": "http://h1080p.com",
+    "cat_prefix": "https://h1080p.com",
 
     "cat_suffix": "",
     
     "SHeaders":"MOBILE_UA",
 
-    "search_url": "http://h1080p.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+    "search_url": "https://h1080p.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
 
     "sea_PtBody":"",
  
@@ -283,7 +283,7 @@
 
     "sea_subtitle":"",
     
-    "search_prefix": "http://h1080p.com/index.php/vod/detail/id/",
+    "search_prefix": "https://h1080p.com/index.php/vod/detail/id/",
 
     "search_suffix": ".html",
     
@@ -313,7 +313,7 @@
 
     "epi_reverse": "0",
 
-    "epiurl_prefix": "http://h1080p.com",
+    "epiurl_prefix": "https://h1080p.com",
     "epiurl_suffix": "",
     //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
     "Anal_MacPlayer":"0",
