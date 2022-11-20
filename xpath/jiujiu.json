@@ -1,7 +1,7 @@
 ﻿{
 	"ua": "",
     // 首页地址 用于获取 分类和首页推荐
-	"homeUrl": "http://www.jiujiukanpian.com",
+	"homeUrl": "https://www.jiujiukanpian.com",
     // 分类节点
 	"cateNode": "//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]",
     // 分类名
@@ -31,7 +31,7 @@
     // 二次处理正则
     "homeVodMarkR": "",
     // 分类页地址 {cateId} 分类id {catePg} 当前页
-	"cateUrl": "http://www.jiujiukanpian.com/type/{cateId}/{catePg}.html",
+	"cateUrl": "https://www.jiujiukanpian.com/type/{cateId}/{catePg}.html",
     // 同上面的homeVod字段 分类列表中的视频信息
 	"cateVodNode": "//div[@class='movie-item']/a",
 	"cateVodName": "/@title",
@@ -40,7 +40,7 @@
 	"cateVodImg": "/img/@src",
 	"cateVodMark": "/button/text()",
     // 详情页地址 用于获取详情页信息 及 播放列表和地址
-	"dtUrl": "http://www.jiujiukanpian.com/show/{vid}.html",
+	"dtUrl": "https://www.jiujiukanpian.com/show/{vid}.html",
     // 详情节点
 	"dtNode": "//div[@class='container-fluid']",
     // 视频名
@@ -89,11 +89,11 @@
     // 二次处理正则
 	"dtUrlNameR": "",
     // 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-	"playUrl": "http://www.jiujiukanpian.com/play/{playUrl}.html",
+	"playUrl": "https://www.jiujiukanpian.com/play/{playUrl}.html",
     // 解析webview的user-agent
 	"playUa": "",
     // 搜索地址
-	"searchUrl": "http://www.jiujiukanpian.com/search?wd={wd}",
+	"searchUrl": "https://www.jiujiukanpian.com/search?wd={wd}",
     // 同上面的homeVod字段 搜索结果中的视频信息, 这里有对苹果cms suggest搜索接口的特殊支持，参考示例中的极品影视
 	"scVodNode": "//div[@class='movie-item']/a",
 	"scVodName": "/@title",
