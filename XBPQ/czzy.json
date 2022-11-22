@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "厂长资源",
-  "主页url": "https://www.czzy.tv",
+  "主页url": "https://www.c-zzy.com",
   
   "分类": "豆瓣电影Top250&最新电影&高分影视&电视剧&国产剧&美剧&韩剧&番剧&动漫",
   "分类值": "dbtop250&zuixindianying&gaofenyingshi&dsj&gcj&meijutt&hanjutv&fanju&dm",
   
-  "分类url": "https://www.czzy.tv/{cateId}/page/{catePg}",
+  "分类url": "https://www.c-zzy.com/{cateId}/page/{catePg}",
   
   "数组": "<li>&&</li>",
   "图片": "data-original=\"&&\"",
@@ -19,8 +19,8 @@
   "搜索数组": "<li>&&</li>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "alt=\"&&\"",
-  "搜索副标题": "jidi\"><span>&&</span>",
   "搜索链接": "href=\"&&\"",
+  "搜索副标题": "jidi\"><span>&&</span>",
   
   "影片年代": "年份：&&</li>",
   "影片地区": "地区：&&</li>",
