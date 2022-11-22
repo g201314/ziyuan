@@ -11,7 +11,7 @@
   "图片": "data-src=\"&&\"",
   "副标题": "icon-play\"></i>&&</span>",
   
-  "搜索模式": "1",
+  "搜索模式": "0",
   "搜索url": "https://www.lingyun.in/search/wd/{wd}/page/{pg}.html",
 
   "搜索副标题": "ss1\">&&</span>",
