@@ -9,12 +9,12 @@
     //请求头Referer参数，如果只是播放页需要，填WebView即可引用播放页的链接作嗅探Referer参数。
     //一般很少用，留空或删除
     "Referer":"",
-    //是否开启获取首页数据，0关闭，1开启https://www.pbpb.tv/class/5-%E5%A4%A7%E9%99%86-time-%E6%82%AC%E7%96%91-%E5%9B%BD%E8%AF%AD-------2022.html
+    //是否开启获取首页数据，0关闭，1开启https://www.pianbb.com/class/5-%E5%A4%A7%E9%99%86-time-%E6%82%AC%E7%96%91-%E5%9B%BD%E8%AF%AD-------2022.html
     "homeContent":"1",
     //分类链接起始页码,禁止负数和含小数点。
     "firstpage": "1",
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
-"class_url": "https://www.pbpb.tv/class/{cateId}{catelog}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
+"class_url": "https://www.pianbb.com/class/{cateId}{catelog}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
     //分类名，分类1&分类2&分类3
     "class_name": "电影&电视剧&综艺&动漫",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
@@ -378,7 +378,7 @@
     
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
-    "search_url": "https://www.pbpb.tv/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_url": "https://www.pianbb.com/index.php/ajax/suggest?mid=1&wd={wd}",
     //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
     "sea_PtBody":"",
     //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
@@ -413,7 +413,7 @@
     //搜索片单链接，截取前缀&&截取后缀
     "sea_url": "",
     //搜索片单链接补前缀
-    "search_prefix": "https://www.pbpb.tv/html/",
+    "search_prefix": "https://www.pianbb.com/html/",
     //搜索片单链接补后缀，这个一般json搜索的需要
     "search_suffix": ".html",
     //搜索副标题，截取前缀&&截取后缀
@@ -475,7 +475,7 @@
     //集数链接，截取前缀&&截取后缀
     "epi_url": "href=\"&&\"",
     //集数链接补前缀
-    "epiurl_prefix": "https://www.pbpb.tv",
+    "epiurl_prefix": "https://www.pianbb.com",
     //集数链接补后缀
     "epiurl_suffix": "",
     
