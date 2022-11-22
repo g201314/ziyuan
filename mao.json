@@ -17,7 +17,7 @@
 //{"key":"csp_fant","name":"饭团影院(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2},
 {"key":"csp_xBPQ_乐猪","name":"乐猪影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/lzys.json"},
 {"key":"Gitcafe","name":"高清影视(清晰度高、播放流畅)","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
-{"key":"yisou","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"ext":"c3895f91c81741959c22feb5fe3a5def"},
+//{"key":"yisou","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"ext":"c3895f91c81741959c22feb5fe3a5def"},
 {"key":"csp_Upyunso","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_Upyunso","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 {"key":"csp_Bttoo","name":"在线影视(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
