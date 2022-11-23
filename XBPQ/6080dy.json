@@ -8,9 +8,7 @@
   
    "分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   "起始页": "1",
-        "二次截取": "<div class=\"module-list\">&&<div class=\"mx-lrmenu\">[替换:<div class=\"fixed_right_bar\">>><div class=\"module-item\">]||首页--最新热播&&<div  class=
-
-\"module-main\"[替换:<div class=\"module module-wrapper\">>><div class=\"module-item\">]",
+        "二次截取": "<div class=\"module-list\">&&<div class=\"mx-lrmenu\">[替换:<div class=\"fixed_right_bar\">>><div class=\"module-item\">]||首页--最新热播&&<div  class=\"module-main\"[替换:<div class=\"module module-wrapper\">>><div class=\"module-item\">]",
         "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">[不包含:理论片]",
         "副标题": "class=\"module-item-text\"&&<",
         "线路数组": "class=\"module-tab-item tab-item\"&&</div>[排序:极速播放>在线观看]",
