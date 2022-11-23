@@ -2,29 +2,19 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "6080电影",
   "主页url": "https://www.6080dy1.com",
-  
- "分类": "电影&电视剧&综艺&动漫",
+  "分类": "电影&电视剧&综艺&动漫",
   "分类值": "1&2&3&4",
-  
-   "分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-
-        "二次截取": "<div class=\"module-list\">&&<div class=\"mx-lrmenu\">[替换:<div class=\"fixed_right_bar\">>><div class=\"module-item\">]||首页--最新热播&&<div  class=\"module-main\"[替换:<div class=\"module module-wrapper\">>><div class=\"module-item\">]",
-        "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">[不包含:理论片]",
-        "副标题": "class=\"module-item-text\"&&<",
-        "线路数组": "class=\"module-tab-item tab-item\"&&</div>[排序:极速播放>在线观看]",
-        "线路标题": "<span>&&</small>[替换:</span>>>（更至]+集）",
-        "影片年代": "<a class=\"tag-link\"*>&&</a>",
-        "导演": "导演：</span>&&</a>",
-        "演员": "主演：</span>&&</div>",
-        "简介": "剧情：</span>&&</span>",
-        "播放数组": "<div class=\"sort-item\"&&</div>",
-        "播放列表": "<!--&&-->",
-        "免嗅": "1",
-        "嗅探词": ".m3u8#.mp4",
-        "过滤词": ".html#url=http",
-        "搜索模式": "0",
-        "搜索链接前缀": "/video/",
-        "搜索链接后缀": ".html"
-  
-  
+  "分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "免嗅": "1",
+  "副标题": "class=\"module-item-text\"&&<",
+  "简介": "剧情：</span>&&</span>",
+  "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">[不包含:理论片]",
+  "线路数组": "class=\"module-tab-item tab-item\"&&</div>[排序:极速播放>在线观看]",
+  "线路标题": "<span>&&</small>[替换:</span>>>（更至]+集）",
+  "播放数组": "<div class=\"sort-item\"&&</div>",
+  "播放列表": "<!--&&-->",
+   "搜索模式": "0",
+   "搜索链接前缀": "/video/",
+   "搜索链接后缀": ".html" 
+        
 }
