@@ -7,7 +7,7 @@
 {"key":"棉花影视","name":"棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/qiaoji.jar"},
 {"key":"csp_AppTT","name":"图图影视(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},	
 {"key":"Tutu_spider","name":"图图影视(qj)","api":"csp_TutuYs","type":3,"filterable":1,"playerType":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/qiaoji.jar"},
-{"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
+{"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 {"key":"多多资源","name":"多多资源(M)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playerType":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","科幻片","灾难片","剧情片","日韩剧","欧美剧"]},
 {"key":"88看球","name":"88看球赛","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/88kanqiu.json"},
 {"key":"csp_XYQBiu_17kan","name":"一起看球赛","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/17kan.json"},
