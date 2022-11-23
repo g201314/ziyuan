@@ -19,7 +19,7 @@
 {"key":"Gitcafe","name":"高清影视(清晰度高、播放流畅)","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 {"key":"csp_Upyunso","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_Upyunso","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 {"key":"yisou","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
-{"key":"360","name":"360影视(TOP98)","type": 3,"api": "csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360","name":"360影视(TOP98)","type":3,"api": "csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/top98.jar"},
 {"key":"csp_Bttoo","name":"在线影视(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //{"key":"csp_xBPQ_素白白","name":"素白白(XBPQ)","type": 3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/subaibai.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ.jar"},
