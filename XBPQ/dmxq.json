@@ -5,7 +5,7 @@
   
   "分类": "电影$20#电视剧$21#动漫$22#综艺$23",
   "分类url": "https://dami2.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/pjax/YES.html",
-  "搜索url": "/index.php?m=vod-search;post;wd={wd}&search=",
+
   "副标题": "module-item-note\">&&</div>",
   
   "搜索后缀": "/voddetail/",
