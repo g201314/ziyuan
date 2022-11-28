@@ -213,7 +213,5 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24#P2p://ns3.hellotvvod.com:9906/b26ad0652296454e89797e599f0d942e
 TVBS,P2p://ns3.hellotvvod.com:9906/28427ae64d4b4bc5bb5895b72a7704f6#http://140.238.155.232:9000/jmsytb.m3u8?c=29
-
 民视新闻台,P2p://ns3.hellotvvod.com:9906/c4d3e91df23647b08f3a285634ff31e6
-
 寰宇新闻台,P2p://ns3.hellotvvod.com:9906/40d53db8b97447f08d4ef7dce707a676
