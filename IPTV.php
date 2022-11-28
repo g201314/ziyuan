@@ -118,7 +118,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8#http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://121.18.168.210/liveop.cctv.cn/hls/4KHD/playlist.m3u8#http://open.live-web.timetv.cn/live03/cctv4k.m3u8#http://iptv.tvfix.org/hls/cctv4k.m3u8#http://livews-tp4k.cctv.cn/hls/4K10M.stream/1.m3u8#http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24#P2p://ns3.hellotvvod.com:9906/b26ad0652296454e89797e599f0d942e
-TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29#P2p://ns3.hellotvvod.com:9906/28427ae64d4b4bc5bb5895b72a7704f6
+TVBS,P2p://ns3.hellotvvod.com:9906/28427ae64d4b4bc5bb5895b72a7704f6#http://140.238.155.232:9000/jmsytb.m3u8?c=29
 民视新闻台,P2p://ns3.hellotvvod.com:9906/c4d3e91df23647b08f3a285634ff31e6
 寰宇新闻台,P2p://ns3.hellotvvod.com:9906/40d53db8b97447f08d4ef7dce707a676
 
