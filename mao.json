@@ -12,7 +12,7 @@
 //{"key":"多多资源","name":"多多资源(M)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"playerType":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","科幻片","灾难片","剧情片","日韩剧","欧美剧"]},
 //{"key":"学堂","name":"吾爱学堂(SP)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/custom_spider-bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 //{"key":"Bili","name":"儿童教育(SP)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/custom_spider-bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
-{"key":"csp_fant","name":"饭团影院(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":1},
+{"key":"csp_fant","name":"饭团影院(SP)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2},
 {"key":"csp_xBPQ_工人影视","name":"工人影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"{\r\n\"作者\":\"菜妮丝https://cainisi.cf\",\r\n\"站名\":\"工人影视\",\r\n\"主页url\":\"https://v.xiangdao.me\",\r\n\"请求头\":\"手机\",\r\n\"倒序播放\":\"1\",\r\n\r\n\"分类\":\"连续剧$2#电影$1#综艺$3#动漫$4\",\r\n\r\n\"分类url\":\"https://v.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html\",\r\n\r\n\"二次截取\":\"resize_list\\\">&&</ul>\",\r\n\"数组\":\"<li>&&</li>\",\r\n\"图片\":\"data-echo=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"<span>&&<em>\",\r\n\r\n\"搜索模式\":\"1\",\r\n\"搜索url\":\"/index.php?m=vod-search;post;wd={wd}\",\r\n\"搜索二次截取\":\"data_list\\\">&&</ul>\",\r\n\"搜索数组\":\"<li>&&</li>\",\r\n\"搜索图片\":\"data-src=\\\"&&\\\"\",\r\n\"搜索标题\":\"sTit\\\">&&</span>\",\r\n\"搜索副标题\":\"sStyle\\\">&&</span>\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\r\n\"导演\":\"导演:&&</div>\",\r\n\"主演\":\"主演:&&</div>\",\r\n\"简介\":\"<p>*介：&&</p>\",\r\n\r\n\"线路数组\":\"<ahref=\\\"javascript:;&&/a>\",\r\n\"线路标题\":\">&&<\",\r\n\r\n\"播放数组\":\"numList\\\">&&</ul>\",\r\n\r\n\"筛选\":\r\n\"1\"}"},
 {"key":"csp_xBPQ_乐猪","name":"乐猪影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/lzys.json"},
 {"key":"Gitcafe","name":"高清影视(清晰度高、播放流畅)","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
@@ -89,7 +89,7 @@
 		{"name":"解析1","type":1,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 		{"name":"解析2","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiii&url="},
 		{"name": "纯净解析","url": "https://z1.m1907.cn/?jx="}],
-  "flags": ["imgo","youku","qq","leshi","qiyi","xigua","iqiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+  "flags": ["renrenmi"],
  "rules": [
     {"host": "*","rule": ["default.365yg.com"]},
     {"host": "dyxs20.com","rule": [".m3u8"]},
