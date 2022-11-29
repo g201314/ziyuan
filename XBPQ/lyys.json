@@ -3,8 +3,8 @@
   "站名": "凌云影视",
   "主页url": "https://www.lingyun.in",
   
-  "分类": "电影&剧集&综艺&动漫",
-  "分类值": "movie&tv&variety&cartoon",
+  "分类": "剧集&电影&综艺&动漫",
+  "分类值": "tv&movie&variety&cartoon",
   
   "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
