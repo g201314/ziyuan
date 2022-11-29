@@ -3,8 +3,8 @@
   "站名": "凌云影视",
   "主页url": "https://www.lingyun.in",
   
-  "分类": "电影&剧集&综艺&动漫",
-  "分类值": "movie&tv&variety&cartoon",
+  "分类": "剧集&电影&综艺&动漫",
+  "分类值": "tv&movie&variety&cartoon",
   
   "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
@@ -37,7 +37,7 @@
   "简介": "sqjj_a\" style=\"display: none;\">&&<span",
   
   "线路数组": "<li class=\"\"&&</li>[替换:(>>👉#)>>集♥]",
-  "线路标题": ">&&</small>[不包含:SD云、WJ云]",
+  "线路标题": ">&&</small>[不包含:SD云和WJ云]",
   
   "播放数组": "player ckp\">&&</ul>",
   
