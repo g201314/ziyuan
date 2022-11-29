@@ -6,9 +6,7 @@
   "分类": "剧集&电影&综艺&动漫",
   "分类值": "tv&movie&variety&cartoon",
   
-  "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---
-
-{year}.html",
+  "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "图片": "data-src=\"&&\"",
   "副标题": "icon-play\"></i>&&</span>",
