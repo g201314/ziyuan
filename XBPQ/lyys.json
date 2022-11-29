@@ -11,8 +11,8 @@
   "图片": "data-src=\"&&\"",
   "副标题": "icon-play\"></i>&&</span>",
   
-   "search_url": "https://www.lingyun.in/search.html?wd={wd}",//搜索网址
-    "search_mode": "1",//搜索模式，0是json格式，1是网页截取
+   "搜索模式": "1",
+  "搜索url": "https://www.lingyun.in/search.html?wd={wd}",
     "jsonpic": "vod_pic",
     "jsonname": "vod_name",
     "jsonid": "vod_id",
