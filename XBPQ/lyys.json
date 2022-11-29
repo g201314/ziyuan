@@ -1,4 +1,4 @@
-﻿{
+{
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "凌云影视",
   "主页url": "https://www.lingyun.in",
@@ -6,7 +6,9 @@
   "分类": "剧集&电影&综艺&动漫",
   "分类值": "tv&movie&variety&cartoon",
   
-  "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://www.lingyun.in/list/{cateId}-{area}-{by}-{class}-----{catePg}---
+
+{year}.html",
   
   "图片": "data-src=\"&&\"",
   "副标题": "icon-play\"></i>&&</span>",
@@ -25,8 +27,9 @@
   "导演": "导演：&&</div>",
   "主演": "主演：&&</div>",
   "简介": "sqjj_a\" style=\"display: none;\">&&<span",
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
+
+   "线路数组": "class=\"\">&&<small>",
+  "线路标题": "</li>",
   
-  "播放数组": "player ckp\">&&</ul>"
+  "播放数组":"<ul class=\"player ckp\">"
 }
