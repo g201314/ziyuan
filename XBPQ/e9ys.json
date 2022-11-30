@@ -75,7 +75,10 @@
     "search_suffix": "",
     //搜索副标题，截取前缀&&截取后缀
     "sea_subtitle": "",
-    
+    "lianjieqian": "href=\"/vod/",
+    "lianjiehou": ".html",
+    "ljqianzhui": "https://m.e99w.com/play/", 
+    "ljhouzhui": "-1-1.html",
     //片单链接是否直接播放，1是直接播放。
     "force_play": "0",
     //直接播放链接补前缀
