@@ -38,7 +38,10 @@
     "cat_prefix": "https://m.e99w.com/play/",
     //分类片单链接补后缀
     "cat_suffix": "-1-1.html",
-    
+    "lianjieqian": "href=\"/vod/",
+    "lianjiehou": ".html",
+    "ljqianzhui": "https://m.e99w.com/play/", 
+    "ljhouzhui": "-1-1.html",
     //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
     "search_url": "https://m.e99w.com/search/-------------.html?wd={wd}&submit=",
     //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
