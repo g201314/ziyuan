@@ -64,8 +64,6 @@
 {"key":"神马影院","name":"神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories": ["内地剧","台湾剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","欧美剧"]},
 {"key":"易看资源","name":"易看资源(M)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2},
-{"key":"csp_biubiu_影视之光","name":"影视之光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/yingshizhiguang.json"},
-{"key":"csp_biubiu_87影院","name":"87影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/87yy.json"},
 {"key":"乐活影视","name":"乐活影视(M)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","港剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","韩剧","美剧"]},
 {"key":"艾旦影视","name":"艾旦影视(M)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","日韩剧","欧美剧","福利视频"]},
 {"key":"红牛资源","name":"红牛资源(M)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories": ["国产剧","港澳剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","日韩剧","欧美剧"]},
