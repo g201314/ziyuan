@@ -212,6 +212,6 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24#P2p://ns3.hellotvvod.com:9906/b26ad0652296454e89797e599f0d942e
-TVBS,https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=29
+TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 民视新闻台,P2p://ns3.hellotvvod.com:9906/c4d3e91df23647b08f3a285634ff31e6
 寰宇新闻台,P2p://ns3.hellotvvod.com:9906/40d53db8b97447f08d4ef7dce707a676
