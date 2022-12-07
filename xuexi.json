@@ -3,9 +3,9 @@
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
-{"key":"学堂","name":"吾爱学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
+{"key":"学堂","name":"吾爱学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 	{"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
-	{"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
+	{"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
 	{"key":"88看球","name":"88看球赛","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/88kanqiu.json"},
 {"key":"csp_xpath_网络搜集库qiumi","name":"球赛直播","type":3,"api": "csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/qiumi.json"},
 {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories": ["内地剧","台湾剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","欧美剧"]},
