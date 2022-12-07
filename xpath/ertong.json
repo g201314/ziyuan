@@ -9,10 +9,6 @@
       "type_id": "宝宝巴士"
     },
     {
-      "type_name": "少儿口才",
-      "type_id": "少儿口才"
-    },
-    {
       "type_name": "儿童早教",
       "type_id": "儿童早教"
     },
@@ -68,6 +64,10 @@
     {
       "type_name": "儿歌多多",
       "type_id": "儿歌多多"
+    },
+     {
+      "type_name": "少儿口才",
+      "type_id": "少儿口才"
     },
     {
       "type_name": "演讲",
