@@ -213,6 +213,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
 台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
