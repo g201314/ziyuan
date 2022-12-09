@@ -90,7 +90,7 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 潍坊都市,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000216/index.m3u8#http://stream.wfcmw.cn/2/sd/live.m3u8#http://stream.wfcmw.cn/2/playlist.m3u8
 临沂综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000120/index.m3u8#http://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 淄博新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000292/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221226014/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
-北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw#http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
@@ -118,7 +118,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8#http://159.75.85.63:8280/cctv4k.php
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
-TVBS,https://pull-l3-cny.douyincdn.com/live/f702ed5b9b4dcae6d2d8d9e2c5c02b60.flv#http://140.238.155.232:9000/jmsytb.m3u8?c=31#http://140.238.155.232:9000/jmsytb.m3u8?c=29
+TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=31#http://140.238.155.232:9000/jmsytb.m3u8?c=29
 中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
 台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
