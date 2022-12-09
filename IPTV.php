@@ -90,7 +90,7 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 潍坊都市,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000216/index.m3u8#http://stream.wfcmw.cn/2/sd/live.m3u8#http://stream.wfcmw.cn/2/playlist.m3u8
 临沂综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000120/index.m3u8#http://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 淄博新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000292/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221226014/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
-北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw#http://live.funhillrm.com/5/sd/live.m3u8?zbeid#http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8#http://221.179.136.140:443/PLTV/88888888/224/3221226437/1.m3u8
+北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw#http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
