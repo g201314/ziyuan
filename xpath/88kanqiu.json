@@ -1,48 +1,27 @@
-{
-"author": "",
-"ua": "",
-"homeUrl": "http://www.88kanqiu.cc/",
-"cateManual": {
-"球赛直播": "666"
-},
+{"name": "体育-zb8",
+"url": "https://www.zhibo8.net",
+"User": "空",
+"是否记录历史": "1",
+"直接播放": "1",
+"列表显示": "1",
+"fenlei": "体育$空",
+"houzhui": "",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"match-item\"",
+"jiequshuzuhou": "</a>",
+"tupianqian": 
 
-"cateUrl": "http://www.88kanqiu.cc",
-"cateVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
-"cateVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
-"cateVodId": "/div[contains(@class,'pay-btn')]/a/@href",
-"cateVodIdR": "/live/(\\d+)/play",
-"cateVodImg": "/div[4]/img/@src",
-"cateVodImgR": "\\S+(http\\S+)",
-"cateVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())",
+"https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?
 
-	// 详情页
-	"dtUrl": "http://www.88kanqiu.cc/live/{vid}/play",
-	// 详情节点
-    "dtNode": "//head",
-	// 视频名
-    "dtName": "/title/text()",
-	// 视频图片
-    "dtImg": "'http://img2.3png.com/822d9cc2fb65cf2d60e19db4ed932934303f.png'",
-    // 视频简介
-    "dtDesc": "concat('')",
-	
-	// 播放源节点
-    "dtFromNode": "//body",
-	// 播放源名称
-    "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
-	// 播放列表节点
-    "dtUrlNode": "//div[@class='game-videos-btn-container']",
-	// 播放地址节点
-    "dtUrlSubNode": "//a[@rel='nofollow']",
-	// 播放地址
-    "dtUrlId": "/@href",
-    "dtUrlIdR": "(\\S+)",
-	// 剧集名称
-    "dtUrlName": "/text()",
-	
-	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-    "playUrl":"http://www.88kanqiu.cc{playUrl}"
-
-
-
-}
+w=417&h=500",
+"tupianhou": "\"",
+"biaotiqian": "class=\"col-home flex\">",
+"biaotihou": "</div>",
+"tupianqianzhui": "空",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "空",
+"fubiaotiqian": "class=\"col-time\">",
+"fubiaotihou": "                            </div>"}
