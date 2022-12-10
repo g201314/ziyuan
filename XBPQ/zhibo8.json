@@ -10,15 +10,12 @@
   "tupianqian":"https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
 "tupianhou": "\"",
   "dtFromNode": "//body",
-   "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
+   "dtFromName":  "【推荐优先选择中文超清或中文高清直播源观看】",
 "dtUrlNode": "//div[@class='game-videos-btn-container']",
  "dtUrlSubNode": "//a[@rel='nofollow']",
 // 播放地址
     "dtUrlId": "/@href",
     "dtUrlIdR": "(\\S+)",
 	// 剧集名称
-    "dtUrlName": "/text()",
-	
-	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
-    "playUrl":"https://www.zhibo8.net{playUrl}"
+    "dtUrlName": "/text()"
 }
