@@ -4,6 +4,7 @@
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
 {"key":"csp_fant","name":"默认主页(💖少看电视,多运动!增强体质,抗击疫情!!)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":1},
+{"key":"xBPQ_直播吧","name":"体育直播吧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/zhibo8.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ.jar"},
 {"key":"学堂","name":"网上学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 {"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
 {"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
