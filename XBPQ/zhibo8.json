@@ -1,8 +1,12 @@
 {
-  "作者": "菜妮丝https://cainisi.cf",
-  "站名": "直播8",
-  
-  "cateUrl": "https://www.zhibo8.net/",
+"author": "",
+"ua": "",
+"homeUrl": "https://www.zhibo8.net/",
+"cateManual": {
+"球赛直播": "666"
+},
+
+"cateUrl": "https://www.zhibo8.net/",
 "cateVodNode": "//div[@class='row d-none d-lg-flex justify-content-between align-items-center vertical-center']",
 "cateVodName": "concat(/div[@class='col-md-4 text-right']/span/text(),'vs',/div[@class='col-md-4 text-left']/span/text())",
 "cateVodId": "/div[contains(@class,'pay-btn')]/a/@href",
@@ -10,15 +14,27 @@
 "cateVodImg": "/div[4]/img/@src",
 "cateVodImgR": "\\S+(http\\S+)",
 "cateVodMark": "concat(/div[contains(@class,'category-game-time')]/text(),'-',/div[contains(@class,'pay-btn')]/a/text())",
-  
-  "dtUrl": "https://www.zhibo8.net/live/{vid}/play",
-  "tupianqian":"https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
+
+	// 详情页
+	"dtUrl": "https://www.zhibo8.net/live/{vid}/play",
+	// 详情节点
+    "dtNode": "//head",
+	
+    "dtName": "/title/text()",
+	"tupianqian": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
 "tupianhou": "\"",
-  "dtFromNode": "//body",
-   "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
-"dtUrlNode": "//div[@class='game-videos-btn-container']",
- "dtUrlSubNode": "//a[@rel='nofollow']",
-// 播放地址
+    // 视频简介
+    "dtDesc": "concat('')",
+	
+	// 播放源节点
+    "dtFromNode": "//body",
+	// 播放源名称
+    "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
+	// 播放列表节点
+    "dtUrlNode": "//div[@class='game-videos-btn-container']",
+	// 播放地址节点
+    "dtUrlSubNode": "//a[@rel='nofollow']",
+	// 播放地址
     "dtUrlId": "/@href",
     "dtUrlIdR": "(\\S+)",
 	// 剧集名称
@@ -26,4 +42,7 @@
 	
 	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
     "playUrl":"https://www.zhibo8.net{playUrl}"
+
+
+
 }
