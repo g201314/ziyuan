@@ -1,23 +1,28 @@
-﻿{"name": "体育直播吧",
-"url": "https://www.zhibo8.net",
-"User": "空",
-"是否记录历史": "1",
-"直接播放": "1",
-"列表显示": "1",
-"fenlei": "体育$空",
-"houzhui": "",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"match-item\"",
-"jiequshuzuhou": "</a>",
-"tupianqian": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
+{
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "直播8",
+  "主页url": "https://www.zhibo8.net",
+  
+  "分类": "首页&篮球直播&足球直播",
+  
+  
+  "分类url": "https://www.zhibo8.net/live/{vid}/play",
+  "tupianqian": 
+
+"https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?
+
+w=417&h=500",
 "tupianhou": "\"",
-"biaotiqian": "class=\"col-home flex\">",
-"biaotihou": "</div>",
-"tupianqianzhui": "空",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"fubiaotiqian": "class=\"col-time\">",
-"fubiaotihou": "</div>"}
+  "dtFromNode": "//body",
+   "dtFromName":  "'【推荐优先选择中文超清或中文高清直播源观看】'",
+"dtUrlNode": "//div[@class='game-videos-btn-container']",
+ "dtUrlSubNode": "//a[@rel='nofollow']",
+// 播放地址
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "(\\S+)",
+	// 剧集名称
+    "dtUrlName": "/text()",
+	
+	//播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+    "playUrl":"https://www.zhibo8.net{playUrl}"
+}
