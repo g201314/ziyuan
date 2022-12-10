@@ -212,10 +212,14 @@ NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
+TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
+民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
 寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
 三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
