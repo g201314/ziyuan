@@ -220,9 +220,5 @@ TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS,http://140.238.155.232:9000/jmsytb.m3u8?c=29
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
 民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
-寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
-三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
-INEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
+
