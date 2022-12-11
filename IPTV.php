@@ -120,7 +120,7 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 广东体育,http://113.117.74.17:808/hls/1/index.m3u8#http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 靖天电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=24
-TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=29#http://140.238.155.232:9000/jmsytb.m3u8?c=31
+TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8#https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=29#http://140.238.155.232:9000/jmsytb.m3u8?c=31
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8#https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=25
 寰宇新闻,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8#http://5.252.141.14:8080/channel.m3u8?fid=litv-longturn14#http://140.238.155.232:9000/jmsytb.m3u8?c=27
 民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8#https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
