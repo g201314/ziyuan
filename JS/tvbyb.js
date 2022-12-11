@@ -1,5 +1,5 @@
 var rule={
-title:'TVA云播',
+title:'TVB云播',
 host:'http://www.tvyb03.com',
 url:'/vod/type/id/fyclass/page/fypage.html',
 searchUrl:'/vod/search.html?wd=**&submit=',
