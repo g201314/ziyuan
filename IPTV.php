@@ -122,9 +122,9 @@ CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=24
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=29#http://140.238.155.232:9000/jmsytb.m3u8?c=31
 中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=25
+寰宇新闻,https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8#http://5.252.141.14:8080/channel.m3u8?fid=litv-longturn14#http://140.238.155.232:9000/jmsytb.m3u8?c=27
+民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
-寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
 三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
 INEWS,http://140.238.155.232:9000/jmsytb.m3u8?c=22
-民视HD,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 
