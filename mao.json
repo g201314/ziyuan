@@ -3,7 +3,7 @@
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
-{"key":"csp_fant","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":0,"playerType":1},
+{"key":"csp_fant","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":0,"playerType":2},
 {"key":"csp_XYQBiu_17kan","name":"一起看球赛","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/17kan.json"},
 {"key":"学堂","name":"网上学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 {"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
