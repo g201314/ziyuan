@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "胖虎影视",
-  "主页url": "http://www.panghuys.com",
+  "主页url": "https://www.panghuys.com",
   
   "分类": "剧集$2#电影$1#综艺$3#动漫$4",
   "分类值": "2&1&3&4",
   
-  "分类url": "http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
+  "分类url": "https://www.panghuys.com/vodshow/{cateId}{area}{by}{class}/page/{catePg}{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
   
