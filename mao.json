@@ -3,11 +3,11 @@
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
-{"key":"csp_fant","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","api":"csp_Fantuan","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"小苹果","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
+{"key":"csp_fant","name":"饭团影视(SP)","api":"csp_Fantuan","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"学堂","name":"网上学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 {"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
 {"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
-{"key":"小苹果","name":"小苹果影院(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"csp_Czsapp","name":"厂长影院(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"棉花","name":"棉花影视(QJ)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://118.190.144.126","jar": "https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/cznk1203.jar;md5;AC4AB2AC15AC3FC72E03CA2FFEF7F041"},
 {"key":"一起看tv","name":"VIP影院(tangs)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","playerType":2,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/tangsan.jar;md5;7573E5DEE052B6B1661A0BC400F190CC"},
