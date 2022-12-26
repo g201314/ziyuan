@@ -74,6 +74,7 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 莱西新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001067/index.m3u8#https://jsylivealone302.iqilu.com/laixi/laixi_tv01/index.m3u8#https://livealone302.iqilu.com/laixi/laixi_tv01/index.m3u8#http://39.135.160.99:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001067/index.m3u8
 胶州新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001074/index.m3u8#https://jsylivealone302.iqilu.com/jiaozhou/jiaozhou_tv01/index.m3u8#https://livealone302.iqilu.com/jiaozhou/jiaozhou_tv01/index.m3u8
 平度新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001054/index.m3u8#https://jsylivealone302.iqilu.com/pingdu/pingdu_tv01/index.m3u8#https://livealone302.iqilu.com/live/pingdu_tv02/index.m3u8
+平度生活,rtmp://jsylivealone.iqilu.com/pingdu/pingdu_tv02
 济南新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000312/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 济南影视,http://39.137.76.32:8089/00/SNM/CHANNEL00000064/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
 济南都市,http://39.137.76.32:8089/00/SNM/CHANNEL00000062/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
@@ -91,10 +92,9 @@ CCTV-5+体育,http://39.137.76.32:8089/00/SNM/CHANNEL00000316/index.m3u8#http://
 临沂综合,http://39.137.76.32:8089/00/SNM/CHANNEL00000120/index.m3u8#http://36773.hlsplay.aodianyun.com/tv_radio_36773/tv_channel_564.m3u8
 淄博新闻,http://39.137.76.32:8089/00/SNM/CHANNEL00000292/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221226014/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225986/index.m3u8#http://120.221.5.111:8089/PLTV/88888888/224/3221225986/index.m3u8
 烟台新闻,http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000280/index.m3u8
+莱州综合,rtmp://wslivealone.iqilu.com/laizhou/laizhou_tv01
 南京新闻,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 南京生活,http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8
 上海新闻,http://111.40.196.36:80/PLTV/88888888/224/3221225499/index.m3u8#http://112.25.48.68/live/program/live/xwzhhd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/xwzhhd/2300000/mnf.m3u8#http://39.134.39.39/PLTV/88888888/224/3221225651/index.m3u8#http://117.156.28.119/PLTV/88888888/224/3221225683/index.m3u8
 上海都市,http://111.40.196.37:80/PLTV/88888888/224/3221225613/index.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231618/index.m3u8#http://112.25.48.68/live/program/live/ylpdhd/4000000/mnf.m3u8#http://112.25.48.68/live/program/live/ylpdhd/2300000/mnf.m3u8
