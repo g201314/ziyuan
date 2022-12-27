@@ -4,7 +4,7 @@
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
 {"key":"小苹果","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"csp_fant","name":"饭团影视(SP)","api":"csp_Fantuan","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
+//{"key":"csp_fant","name":"饭团影视(SP)","api":"csp_Fantuan","type":3,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"学堂","name":"网上学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 {"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
 {"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
@@ -23,6 +23,7 @@
 {"key":"Tian","name":"天天影视(tangs)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","playerType":1,"ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/tangsan.jar;md5;7573E5DEE052B6B1661A0BC400F190CC"},
 {"key":"csp_xBPQ_乐猪","name":"乐猪影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/lzys.json"},
 {"key":"csp_Kuaikan","name":"快看影院(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
+{"key":"csp_XBPQ_饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/fantuanys.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/XBPQ.jar"},
 {"key":"Gitcafe","name":"高清影视(清晰度高、播放流畅)","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 {"key":"csp_Upyunso","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 {"key":"yisou","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
