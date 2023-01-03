@@ -24,4 +24,3 @@ var rule = {
     搜索:'ul.stui-vodlist__media&&li;*;*;*;*'
     
 }
-Footer
