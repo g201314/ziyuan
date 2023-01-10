@@ -7,7 +7,7 @@
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
-"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+"搜索url":"/search/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "搜索图片":"data-original=\"&&\"",
