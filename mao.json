@@ -4,7 +4,7 @@
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
 {"key":"小苹果","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"csp_XBPQ_饭团影视","name":"饭团影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/fantuanys.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/XBPQ.jar"},
+{"key":"csp_xBPQ_饭团影视","name":"饭团影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/fantuanys.json"},
 {"key":"dr_JRKAN直播","name":"球赛直播(drpy)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/drpy.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JS/jrkan.js"},
 {"key":"学堂","name":"网上学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 {"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
