@@ -19,7 +19,7 @@
 {"key":"csp_Kuaikan","name":"快看影院(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 //{"key":"Gitcafe","name":"高清影视(清晰度高、播放流畅)","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
 {"key":"csp_Upyunso","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/token.txt"},
-{"key":"YiSo","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"YiSo","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"8eb1598d8d6c47baac0bb1b507d803df"},
 {"key":"神马影院","name":"神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_BuLei","name":"布蕾影院(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
 {"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
