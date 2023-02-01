@@ -3,7 +3,7 @@
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
-{"key":"小苹果","name":"默认主页(💖戴口罩,勤洗手!加强防护,增强体质!!)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/0118.txt"},
+{"key":"小苹果","name":"默认主页(💖请下载新版本使用!!)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://gitee.com/qdpdwjx0001/ziyuan/raw/master/0118.txt"},
 {"key":"csp_xBPQ_饭团影院","name":"饭团影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/XBPQ/fantuanys.json"},
 {"key":"dr_JRKAN直播","name":"球赛直播(drpy)","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/drpy.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JS/jrkan.js"},
 {"key":"学堂","name":"网上学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
@@ -11,35 +11,7 @@
 {"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
 {"key":"csp_Czsapp","name":"厂长影院(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"棉花","name":"棉花影视(QJ)","type":3,"api":"csp_MianHua","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://118.190.144.126","jar": "https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/cznk1203.jar;md5;AC4AB2AC15AC3FC72E03CA2FFEF7F041"},
-{"key":"AppTT","name":"图图影视(tangs)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","playerType":1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/tangsan.jar;md5;7573E5DEE052B6B1661A0BC400F190CC"},
-{"key":"一起看tv","name":"VIP影院(tangs)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","playerType":1,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/tangsan.jar;md5;7573E5DEE052B6B1661A0BC400F190CC"},
-{"key":"csp_Xinsj","name":"新视觉影视(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"新浪资源","name":"新浪影院(M)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["大陆剧","港澳剧","台湾剧","欧美剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
-{"key":"csp_Kuaikan","name":"快看影院(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"YiSo","name":"阿里影视(清晰度高、播放流畅)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"c649fccc09314f44a36e08ffaf8118f8"},
 {"key":"UpYun","name":"高清影院(清晰度高、播放流畅)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"8eb1598d8d6c47baac0bb1b507d803df"},
-{
-"key":"xxyy","name":"蓝光影院(M)","type":1,"api":"http://47.108.39.249:4567/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"fl":"520520","categories":[
-
-"连续剧","电影","香港剧","韩国剧",
-"台湾剧","日本剧","动漫","科幻","泰剧",
- "综艺"
-]
-},
-{"key":"新浪资源","name":"新浪影院(M)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["大陆剧","港澳剧","台湾剧","欧美剧","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},{"key":"神马影院","name":"神马影院(SP)","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"csp_BuLei","name":"布蕾影院(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"csp_77","name":"酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"mtv_pc_Zjdr","name":"追剧达人(SP)","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"playerType":1},
-{"key":"csp_Auete","name":"奥特影视(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"csp_SP360","name":"360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories": ["内地剧","台湾剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","欧美剧"]},
-{"key":"f2dcj6.com","name":"易看资源(M)","type":0,"api": "http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":0,"playerType":2},
-{"key":"乐活影视","name":"乐活影视(M)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","港剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","韩剧","美剧"]},
-{"key":"艾旦影视","name":"艾旦影视(M)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","日韩剧","欧美剧","福利视频"]},
-{"key":"红牛资源","name":"红牛资源(M)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":1,"categories": ["国产剧","港澳剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","日韩剧","欧美剧"]},
-{"key":"快播资源","name":"快播资源(M)","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories": ["国产剧","港台剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","日韩剧","欧美剧"]},
-{"key":"量子资源","name":"量子资源(M)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories": ["国产剧","香港剧","战争片","动作片","喜剧片","爱情片","惊悚片","奇幻片","灾难片","剧情片","韩国剧","欧美剧"]},
-{"key":"诺讯资源","name":"诺讯资源(M)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"playerType":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","惊悚片","战争片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片"]},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
 		{"name": "解析聚合","type": 3,"url": "Demo"},
