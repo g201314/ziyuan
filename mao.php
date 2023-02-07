@@ -213,6 +213,13 @@ NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+台视新闻,http://2023.stream-link.org/playlist/ctv_news
+中天新闻,http://2023.stream-link.org/playlist/cti_news#http://158.101.151.82:9000/jmsytb.m3u8?c=5#http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8#http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+TVB新闻,http://2023.stream-link.org/playlist/tvbs_news#http://158.101.151.82:9000/jmsytb.m3u8?c=3
+TVBS,http://158.101.151.82:9000/jmsytb.m3u8?c=4#http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8#https://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=29#http://140.238.155.232:9000/jmsytb.m3u8?c=31
+中视新闻,http://2023.stream-link.org/playlist/ctv_news#http://158.101.151.82:9000/jmsytb.m3u8?c=8#http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8#https://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=25
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw#http://158.101.151.82:9000/jmsytb.m3u8?c=14#http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+民视新闻,http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
 中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
 中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
 TVBS,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
