@@ -214,8 +214,8 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
 寰宇新闻,http://2023.stream-link.org/playlist/global_tw
 民视新闻,http://2023.stream-link.org/playlist/ftv_news
