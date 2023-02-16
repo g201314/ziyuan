@@ -211,5 +211,6 @@ CCTV-5+体育,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
 Newtv军旅剧场,http://111.40.196.28/PLTV/88888888/224/3221225622/index.m3u8
 NewTV动作影视,http://39.134.65.166/PLTV/88888888/224/3221225555/1.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
