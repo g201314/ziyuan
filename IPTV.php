@@ -118,5 +118,5 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8#http://2023.stream-link.org/playlist/tvbs_news
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
-寰宇新闻,http://2023.stream-link.org/playlist/global_tw
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw#http://2023.stream-link.org/playlist/global_news.flv
 民视新闻,http://2023.stream-link.org/playlist/ftv_news
