@@ -216,3 +216,4 @@ TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
 寰宇新闻,http://2023.stream-link.org/playlist/global_tw
 民视新闻,http://2023.stream-link.org/playlist/ftv_news
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
