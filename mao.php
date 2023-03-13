@@ -263,6 +263,7 @@ HBO原创巨献,P2p://generationnexxxt.com:19806/1ed75764438346a3954d6657d9b7d43
 美亚电影台HD,P2p://generationnexxxt.com:19806/3de70ae790cb4a04bfa4d2ec8f829c7f
 龙华电影,P2p://generationnexxxt.com:19806/511adff55ef24694a9150dadc4e5cb59
 星卫HD电影台,P2p://generationnexxxt.com:19806/6bca6a7a60f04eec9045a60293854792
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
 TVBS新闻,http://2023.stream-link.org/playlist/tvbs_news
 台视新闻,http://2023.stream-link.org/playlist/ttv_news
 寰宇新闻,http://2023.stream-link.org/playlist/global_tw
