@@ -122,8 +122,3 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551#P2p://generationnexxxt.com:19806/360df
 寰宇新闻,P2p://generationnexxxt.com:19806/7db7267e06c94e1abb15074a0e976a05#http://2023.stream-link.org/playlist/global_tw
 民视新闻,P2p://generationnexxxt.com:19806/4612abb49797482ba0fb581d43e4b345#http://2023.stream-link.org/playlist/ftv_news
 非凡新闻台,P2p://generationnexxxt.com:19806/c6a69d6c86414154a41cb21c203d86ac
-HBO强档巨献,P2p://generationnexxxt.com:19806/ca8f37d06bdb489d848920e5cfe4c4e4
-HBO原创巨献,P2p://generationnexxxt.com:19806/1ed75764438346a3954d6657d9b7d438
-美亚电影台HD,P2p://generationnexxxt.com:19806/3de70ae790cb4a04bfa4d2ec8f829c7f
-龙华电影,P2p://generationnexxxt.com:19806/511adff55ef24694a9150dadc4e5cb59
-星卫HD电影台,P2p://generationnexxxt.com:19806/6bca6a7a60f04eec9045a60293854792
