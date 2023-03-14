@@ -119,6 +119,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 TVBS新闻,rtmp://59.124.75.138/sat/tv551#P2p://generationnexxxt.com:19806/360dfb7911184069a9436d58df6ace3a#http://2023.stream-link.org/playlist/tvbs_news
 中天新闻,P2p://generationnexxxt.com:19806/f412237e0e5c474bb46f519e635f8ca1
 台视新闻,P2p://generationnexxxt.com:19806/600aa1dde9984def8c295d3c1bd7c36f#http://2023.stream-link.org/playlist/ttv_news
-寰宇新闻,P2p://generationnexxxt.com:19806/7db7267e06c94e1abb15074a0e976a05#http://2023.stream-link.org/playlist/global_tw
+寰宇新闻,http://2023.stream-link.org/playlist/global_tw.flv#P2p://generationnexxxt.com:19806/7db7267e06c94e1abb15074a0e976a05#http://2023.stream-link.org/playlist/global_tw
 民视新闻,P2p://generationnexxxt.com:19806/4612abb49797482ba0fb581d43e4b345#http://2023.stream-link.org/playlist/ftv_news
 非凡新闻台,P2p://generationnexxxt.com:19806/c6a69d6c86414154a41cb21c203d86ac
