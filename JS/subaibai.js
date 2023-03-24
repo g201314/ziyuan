@@ -33,4 +33,4 @@ var rule = {
         "lists":".paly_list_btn:eq(#id) a"
     },
     搜索:'.search_list&&li;*;*;*;*',
-}
+} 
