@@ -6,8 +6,8 @@
 {"key":"学堂","name":"吾爱学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
 {"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
 {"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
-{"key":"dr_88看球","name":"⚽🏀88看球","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/88kanqiu.js"},
-{"key":"dr_JRKAN直播","name":"⚽🏀球赛直播","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/jrkan.js"},
+{"key":"dr_88看球","name":"⚽🏀88看球","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/88kanqiu.js"},
+{"key":"dr_JRKAN直播","name":"⚽🏀球赛直播","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/jrkan.js"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
 "parses": [
 		{"name":"解析聚合","type":3,"url":"Demo"},
