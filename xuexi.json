@@ -1,11 +1,11 @@
 ﻿{
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/custom_spider-bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+"spider": "https://framagit.org/qdpdwjx/ziyuan/-/raw/master/JAR/custom_spider-bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
-{"key":"学堂","name":"吾爱学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/xuetang.json"},
-{"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/ertong.json"},
-{"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/xpath/laonian.json"},
+{"key":"学堂","name":"吾爱学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://framagit.org/qdpdwjx/ziyuan/-/raw/master/xpath/xuetang.json"},
+{"key":"Bili","name":"儿童教育","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://framagit.org/qdpdwjx/ziyuan/-/raw/master/xpath/ertong.json"},
+{"key":"老年","name":"中老年学堂","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"https://framagit.org/qdpdwjx/ziyuan/-/raw/master/xpath/laonian.json"},
 {"key":"dr_88看球","name":"⚽🏀88看球","type":3,"api":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JS/88kanqiu.js"},
 {"key":"csp_xpath_JRS","name":"⚽🏀JRS球迷","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/xpath/qiumi.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"}],
