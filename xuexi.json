@@ -1,5 +1,5 @@
 ﻿{
-"spider": "https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/custom_spider-bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+"spider": "https://jihulab.com/qdpdwjx/ziyuan/-/raw/master/JAR/66666.jar",
 "lives":
 [{"group": "redirect","channels":[{"name":"live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vcWRwZHdqeC96aXl1YW4vbWFzdGVyL21hby5waHA="]}]}],
 "sites":[
