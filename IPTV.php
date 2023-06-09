@@ -120,4 +120,4 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8#rtmp://9wv7.mine.nu/sat/tv091
 民视,rtmp://9wv7.mine.nu/sat/tv051
 华视,rtmp://9wv7.mine.nu/sat/tv111
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8#rtmp://119.81.124.89/sat/tv551
+TVBS新闻,rtmp://119.81.124.89/sat/tv551
