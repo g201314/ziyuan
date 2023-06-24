@@ -196,6 +196,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC电影,http://118.24.227.124/__cl/cg:live/__c/chcgqdyHD/__op/default/__f/index.m3u8
 CHC动作电影,http://118.24.227.124/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
+中天新闻,http://lzoq.hk3c.ml/daili/ytb.php?id=cti
 TVBS新闻台,rtmp://219.80.97.77/sat/tv551
 民视[1280x720],rtmp://219.80.97.77/sat/tv051
 台视[1280x720],rtmp://219.80.97.77/sat/tv071
