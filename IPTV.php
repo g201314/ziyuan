@@ -48,7 +48,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 兵团卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000071/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8#http://111.40.196.33:80/PLTV/88888888/224/3221225637/index.m3u8#http://39.134.19.2/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
 厦门卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000075/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
 东南卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000310/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000310/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8#http://39.134.68.168:6610/PLTV/88888888/224/3221225620/index.m3u8#http://112.25.48.68/live/program/live/dnwshd/4000000/mnf.m3u8
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8#http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000078/index.m3u8
+三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS#https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8#http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000078/index.m3u8
 甘肃卫视,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000349/index.m3u8#http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000046/index.m3u8
 山东文旅,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000337/index.m3u8#http://120.221.44.101:8089/PLTV/88888888/224/3221225802/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
 山东生活,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00000336/index.m3u8#http://39.136.48.8:8089/PLTV/88888888/224/3221225841/index.m3u8#http://120.221.5.102:8089/PLTV/88888888/224/3221225841/index.m3u8#http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
@@ -117,8 +117,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8#http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.69:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.179.150:80/PLTV/88888888/224/3221231799/1.m3u8#http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8#http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 冬奥纪实,http://39.134.65.6:80/wh7f454c46tw2208659818_419476554/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 TVBS HD,rtmp://9sv2.mine.nu/sat/tv551#https://fsv4.yj011.net/sat/tv551.flv
-TVBS,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
-民视,rtmp://9sv2.mine.nu/sat/tv051
-台视,rtmp://9sv2.mine.nu/sat/tv071
-中视,rtmp://9sv2.mine.nu/sat/tv091
-华视,rtmp://9sv2.mine.nu/sat/tv111
+民视,rtmp://9sv2.mine.nu/sat/tv051#https://fsv4.yj011.net/sat/tv051.flv
+台视,rtmp://9sv2.mine.nu/sat/tv071#https://fsv4.yj011.net/sat/tv071.flv
+中视,rtmp://9sv2.mine.nu/sat/tv091#https://fsv4.yj011.net/sat/tv091.flv
+东森,rtmp://9sv2.mine.nu/sat/tv571#https://fsv4.yj011.net/sat/tv571.flv
+华视,rtmp://9sv2.mine.nu/sat/tv111#https://fsv4.yj011.net/sat/tv111.flv
