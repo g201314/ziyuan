@@ -73,7 +73,7 @@ CCTV-5+体育,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.
 莱西新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001067/index.m3u8#http://39.135.160.99:6410/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001067/index.m3u8
 胶州新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001074/index.m3u8
 平度新闻,http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com/223.99.253.7:8082/00/SNM/CHANNEL00001054/index.m3u8
-青岛李沧,http://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b.flv
+青岛李沧,http://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b.flv#rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b#rtmp://alivealone.litenews.cn/173/bc8dac70dcc54987a3abd07313420e4b
 济南新闻,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
 济南影视,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
 济南都市,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
